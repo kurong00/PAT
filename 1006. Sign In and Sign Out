@@ -1,0 +1,69 @@
+### 题目描述
+> At the beginning of every day, the first person who signs in the computer room will unlock the door, and the last one who signs out will lock the door. Given the records of signing in's and out's, you are supposed to find the ones who have unlocked and locked the door on that day.
+
+### 输入描述
+
+> Each input file contains one test case. Each case contains the records for one day. The case starts with a positive integer M, which is the total number of records, followed by M lines, each in the format:
+
+ID_number Sign_in_time Sign_out_time
+where times are given in the format HH:MM:SS, and ID number is a string with no more than 15 characters.
+
+### 输出描述:
+> For each test case, output in one line the ID numbers of the persons who have unlocked and locked the door on that day. The two ID numbers must be separated by one space.
+
+Note: It is guaranteed that the records are consistent. That is, the sign in time must be earlier than the sign out time for each person, and there are no two persons sign in or out at the same moment.
+
+### 输入例子
+> 3
+CS301111 15:30:28 17:00:10
+SC3021234 08:00:00 11:25:25
+CS301133 21:45:00 21:58:40
+
+### 输出例子
+> SC3021234 CS301133
+
+## 题目解析
+> 还是很简单的题目，可以利用字符串的对比排序，代码量将减少
+
+```C++
+#include<iostream>
+#include<string>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+struct Student {
+	string name;
+	string signInTime;
+	string signOutTime;
+};
+
+bool MinSignInTime(Student &stu1, Student &stu2) {
+	if (stu1.signInTime < stu2.signInTime)
+		return true;
+	else
+		return false;
+}
+
+bool MaxSignOutTime(Student &stu1, Student &stu2) {
+	if (stu1.signOutTime > stu2.signOutTime)
+		return true;
+	else
+		return false;
+}
+int main() {
+	int n;
+	cin >> n;
+	vector<Student> data;
+	for (int i = 0; i < n; i++) {
+		Student temp;
+		cin >> temp.name >> temp.signInTime >> temp.signOutTime;
+		data.push_back(temp);
+	}
+	sort(data.begin(), data.end(), MinSignInTime);
+	cout << data[0].name << " ";
+	sort(data.begin(), data.end(), MaxSignOutTime);
+	cout << data[0].name << endl;
+	return 0;
+}
+```
