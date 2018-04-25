@@ -1,0 +1,17 @@
+{
+    "bookname": "PAT",
+    "description": "PAT学习笔记",
+    "author": {
+        "name": "kurong00",
+        "email": "kurong00@gmail.com"
+    },
+    "keywords": [
+        "PAT"
+    ],
+
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kurong00/PAT"
+    }
+}
