@@ -8,6 +8,7 @@
 * [1005. Spell It Right](1005. Spell It Right.md)
 * [1006. Sign In and Sign Out](1006. Sign In and Sign Out.md)
 * [1008. Elevator](1008. Elevator.md)
+* [1011. World Cup Betting](1011. World Cup Betting.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
 * [1019. General Palindromic Number](1019. General Palindromic Number.md)
 * [1023. Have Fun with Numbers](1023. Have Fun with Numbers.md)
