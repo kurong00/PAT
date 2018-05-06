@@ -3,6 +3,7 @@
 * [1001. A+B Format](https://github.com/kurong00/PAT/blob/master/1001.%20A%2BB%20Format.md)
 * [1005. Spell It Right](https://github.com/kurong00/PAT/blob/master/1005.%20Spell%20It%20Right.md)
 * [1008. Elevator](https://github.com/kurong00/PAT/blob/master/1008.%20Elevator.md)
+* [1011. World Cup Betting](https://github.com/kurong00/PAT/blob/master/1011.%20World%20Cup Betting.md)
 * [1015. Reversible Primes](https://github.com/kurong00/PAT/blob/master/1015.%20Reversible%20Primes.md)
 * [1019. General Palindromic Number](https://github.com/kurong00/PAT/blob/master/1015.%20Reversible%20Primes.md)
 * [1023. Have Fun with Numbers](https://github.com/kurong00/PAT/blob/master/1023.%20Have%20Fun%20with%20Numbers.md)
