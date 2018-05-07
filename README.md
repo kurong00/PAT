@@ -10,6 +10,7 @@
 * [1027. Colors in Mars](https://github.com/kurong00/PAT/blob/master/1027.%20Colors%20in%20Mars.md)
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
 * [1054. The Dominant Color](https://github.com/kurong00/PAT/blob/master/1054.%20The%20Dominant%20Color.md)
+* [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 
 ### 难度值：★★
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
