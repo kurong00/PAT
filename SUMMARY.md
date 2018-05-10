@@ -16,6 +16,7 @@
 * [1024. Palindromic Number](1024. Palindromic Number.md)
 * [1025. PAT Ranking](1025. PAT Ranking.md)
 * [1027. Colors in Mars](1027. Colors in Mars.md)
+* [1028. List Sorting](1028. List Sorting.md)
 * [1029. Median](1029. Median.md)
 * [1035. Password](1035. Password.md)
 * [1036. Boys vs Girls](1036. Boys vs Girls.md)
