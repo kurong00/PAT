@@ -12,6 +12,7 @@
 * [1011. World Cup Betting](1011. World Cup Betting.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
 * [1019. General Palindromic Number](1019. General Palindromic Number.md)
+* [1017. Queueing at Bank](1017. Queueing at Bank.md)
 * [1023. Have Fun with Numbers](1023. Have Fun with Numbers.md)
 * [1024. Palindromic Number](1024. Palindromic Number.md)
 * [1025. PAT Ranking](1025. PAT Ranking.md)
