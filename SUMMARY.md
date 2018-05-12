@@ -10,6 +10,7 @@
 * [1007. Maximum Subsequence Sum](1007. Maximum Subsequence Sum.md)
 * [1008. Elevator](1008. Elevator.md)
 * [1011. World Cup Betting](1011. World Cup Betting.md)
+* [1012. The Best Rank](1012. The Best Rank.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
 * [1019. General Palindromic Number](1019. General Palindromic Number.md)
 * [1017. Queueing at Bank](1017. Queueing at Bank.md)
