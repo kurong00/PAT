@@ -19,6 +19,7 @@
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
 * [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
 * [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
+* [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1024. Palindromic Number](1024.%20Palindromic%20Number)
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
