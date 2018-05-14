@@ -13,6 +13,7 @@
 * [1012. The Best Rank](1012. The Best Rank.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
 * [1019. General Palindromic Number](1019. General Palindromic Number.md)
+* [1020. Tree Traversals](1020. Tree Traversals.md)
 * [1017. Queueing at Bank](1017. Queueing at Bank.md)
 * [1023. Have Fun with Numbers](1023. Have Fun with Numbers.md)
 * [1024. Palindromic Number](1024. Palindromic Number.md)
