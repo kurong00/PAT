@@ -9,6 +9,7 @@
 * [1006. Sign In and Sign Out](1006. Sign In and Sign Out.md)
 * [1007. Maximum Subsequence Sum](1007. Maximum Subsequence Sum.md)
 * [1008. Elevator](1008. Elevator.md)
+* [1009. Product of Polynomials](1009. Product of Polynomials.md)
 * [1011. World Cup Betting](1011. World Cup Betting.md)
 * [1012. The Best Rank](1012. The Best Rank.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
