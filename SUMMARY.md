@@ -25,6 +25,7 @@
 * [1031 Hello World for U](1031 Hello World for U.md)
 * [1035. Password](1035. Password.md)
 * [1036. Boys vs Girls](1036. Boys vs Girls.md)
+* [1041. Be Unique](1041. Be Unique.md)
 * [1054. The Dominant Color](1054. The Dominant Color.md)
 * [1081. Rational Sum](1081. Rational Sum.md)
 * [1083. List Grades](1083. List Grades.md)
