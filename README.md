@@ -8,7 +8,7 @@
 * [1019. General Palindromic Number](https://github.com/kurong00/PAT/blob/master/1015.%20Reversible%20Primes.md)
 * [1023. Have Fun with Numbers](https://github.com/kurong00/PAT/blob/master/1023.%20Have%20Fun%20with%20Numbers.md)
 * [1027. Colors in Mars](https://github.com/kurong00/PAT/blob/master/1027.%20Colors%20in%20Mars.md)
-* [1031 Hello World for U](https://github.com/kurong00/PAT/blob/master/1031.%20Hello%20World%20for%20U.md)
+* [1031. Hello World for U](https://github.com/kurong00/PAT/blob/master/1031.%20Hello%20World%20for%20U.md)
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
 * [1041. Be Unique](https://github.com/kurong00/PAT/blob/master/1041.%20Be%20Unique.md)
 * [1054. The Dominant Color](https://github.com/kurong00/PAT/blob/master/1054.%20The%20Dominant%20Color.md)
