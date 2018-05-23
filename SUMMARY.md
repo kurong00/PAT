@@ -30,3 +30,4 @@
 * [1065. A+B and C](1065. A+B and C.md)
 * [1081. Rational Sum](1081. Rational Sum.md)
 * [1083. List Grades](1083. List Grades.md)
+* [1084. Broken Keyboard](1084. Broken Keyboard.md)
