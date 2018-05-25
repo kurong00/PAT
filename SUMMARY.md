@@ -32,3 +32,4 @@
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)
+* [1100. Mars Numbers](1100. Mars Numbers.md)
