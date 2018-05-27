@@ -34,3 +34,4 @@
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)
 * [1100. Mars Numbers](1100. Mars Numbers.md)
 * [1101. Quick Sort](1101. Quick Sort.md)
+* [1104. Sum of Number Segments](1104. Sum of Number Segments.md)
