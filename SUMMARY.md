@@ -36,3 +36,4 @@
 * [1101. Quick Sort](1101. Quick Sort.md)
 * [1104. Sum of Number Segments](1104. Sum of Number Segments.md)
 * [1105. Spiral Matrix](1105. Spiral Matrix.md)
+* [1108. Finding Average](1108. Finding Average.md)
