@@ -38,3 +38,4 @@
 * [1105. Spiral Matrix](1105. Spiral Matrix.md)
 * [1108. Finding Average](1108. Finding Average.md)
 * [1109. Group Photo](1109. Group Photo.md)
+* [1110. Complete Binary Tree](1110. Complete Binary Tree.md)
