@@ -38,6 +38,7 @@
 * [1101. Quick Sort](https://github.com/kurong00/PAT/blob/master/1101.%20Quick%20Sort.md)
 * [1105. Spiral Matrix](https://github.com/kurong00/PAT/blob/master/1105.%20Spiral%20Matrix.md)
 * [1109. Group Photo](https://github.com/kurong00/PAT/blob/master/1109.%20Group%20Photo.md)
+* [1110. Complete Binary Tree](https://github.com/kurong00/PAT/blob/master/1110.%20Complete%20Binary%20Tree.md)
 
 ### 难度值：★★★
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
