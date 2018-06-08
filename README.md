@@ -15,7 +15,7 @@
 * [1065. A+B and C](https://github.com/kurong00/PAT/blob/master/1065.%20A+B%20and%20C.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1084. Broken Keyboard](https://github.com/kurong00/PAT/blob/master/1084.%20Broken%20Keyboard.md)
-* [1092. To Buy or Not to Buy](https://github.com/kurong00/PAT/blob/master/1092.%20To%20Buy%20or%20Not%20to Buy.md)
+* [1092. To Buy or Not to Buy](https://github.com/kurong00/PAT/blob/master/1092.%20To%20Buy%20or%20Not%20to%20Buy.md)
 * [1100. Mars Numbers](https://github.com/kurong00/PAT/blob/master/1100.%20Mars%20Numbers.md)
 * [1104. Sum of Number Segments](https://github.com/kurong00/PAT/blob/master/1104.%20Sum%20of%20Number%20Segments.md)
 * [1108. Finding Average](https://github.com/kurong00/PAT/blob/master/1108.%20Finding%20Average.md)
