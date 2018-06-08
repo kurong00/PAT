@@ -33,6 +33,7 @@
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)
+* [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)
 * [1100. Mars Numbers](1100. Mars Numbers.md)
 * [1101. Quick Sort](1101. Quick Sort.md)
 * [1104. Sum of Number Segments](1104. Sum of Number Segments.md)
