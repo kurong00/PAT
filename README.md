@@ -47,3 +47,4 @@
 
 ### 难度值：★★★
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
+* [1049. Counting Ones]((https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
