@@ -35,6 +35,7 @@
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
+* [1032. Sharing](https://github.com/kurong00/PAT/blob/master/1032.%20Sharing.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1085. Perfect Sequence](https://github.com/kurong00/PAT/blob/master/1085.%20Perfect%20Sequence.md)
