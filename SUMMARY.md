@@ -29,6 +29,7 @@
 * [1036. Boys vs Girls](1036. Boys vs Girls.md)
 * [1041. Be Unique](1041. Be Unique.md)
 * [1049. Counting Ones](1049 Counting Ones.md)
+* [1050. String Subtraction](1050. String Subtraction.md)
 * [1054. The Dominant Color](1054. The Dominant Color.md)
 * [1065. A+B and C](1065. A+B and C.md)
 * [1081. Rational Sum](1081. Rational Sum.md)
