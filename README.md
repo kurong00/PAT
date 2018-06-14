@@ -13,6 +13,7 @@
 * [1041. Be Unique](https://github.com/kurong00/PAT/blob/master/1041.%20Be%20Unique.md)
 * [1050. String Subtraction]((https://github.com/kurong00/PAT/blob/master/1050.%20String%20Subtraction.md)
 * [1054. The Dominant Color](https://github.com/kurong00/PAT/blob/master/1054.%20The%20Dominant%20Color.md)
+* [1058. A+B in Hogwarts](https://github.com/kurong00/PAT/blob/master/1058.%20A+B%20in%20Hogwarts.md)
 * [1065. A+B and C](https://github.com/kurong00/PAT/blob/master/1065.%20A+B%20and%20C.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1084. Broken Keyboard](https://github.com/kurong00/PAT/blob/master/1084.%20Broken%20Keyboard.md)
