@@ -11,7 +11,7 @@
 * [1031. Hello World for U](https://github.com/kurong00/PAT/blob/master/1031.%20Hello%20World%20for%20U.md)
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
 * [1041. Be Unique](https://github.com/kurong00/PAT/blob/master/1041.%20Be%20Unique.md)
-* [1050. String Subtraction]((https://github.com/kurong00/PAT/blob/master/1050.%20String%20Subtraction.md)
+* [1050. String Subtraction](https://github.com/kurong00/PAT/blob/master/1050.%20String%20Subtraction.md)
 * [1054. The Dominant Color](https://github.com/kurong00/PAT/blob/master/1054.%20The%20Dominant%20Color.md)
 * [1058. A+B in Hogwarts](https://github.com/kurong00/PAT/blob/master/1058.%20A+B%20in%20Hogwarts.md)
 * [1065. A+B and C](https://github.com/kurong00/PAT/blob/master/1065.%20A+B%20and%20C.md)
@@ -51,4 +51,4 @@
 
 ### 难度值：★★★
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
-* [1049. Counting Ones]((https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
+* [1049. Counting Ones](https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
