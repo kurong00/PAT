@@ -33,6 +33,7 @@
 * [1054. The Dominant Color](1054. The Dominant Color.md)
 * [1058. A+B in Hogwarts](1058. A+B in Hogwarts.md)
 * [1065. A+B and C](1065. A+B and C.md)
+* [1069. The Black Hole of Numbers](1069. The Black Hole of Numbers.md)
 * [1081. Rational Sum](1081. Rational Sum.md)
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
