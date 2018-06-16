@@ -15,6 +15,7 @@
 * [1054. The Dominant Color](https://github.com/kurong00/PAT/blob/master/1054.%20The%20Dominant%20Color.md)
 * [1058. A+B in Hogwarts](https://github.com/kurong00/PAT/blob/master/1058.%20A+B%20in%20Hogwarts.md)
 * [1065. A+B and C](https://github.com/kurong00/PAT/blob/master/1065.%20A+B%20and%20C.md)
+* [1069. The Black Hole of Numbers](https://github.com/kurong00/PAT/blob/master/1069.%20The%20Black%20Hole%20of%20Numbers.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1084. Broken Keyboard](https://github.com/kurong00/PAT/blob/master/1084.%20Broken%20Keyboard.md)
 * [1092. To Buy or Not to Buy](https://github.com/kurong00/PAT/blob/master/1092.%20To%20Buy%20or%20Not%20to%20Buy.md)
