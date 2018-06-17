@@ -23,6 +23,7 @@
 * [1104. Sum of Number Segments](https://github.com/kurong00/PAT/blob/master/1104.%20Sum%20of%20Number%20Segments.md)
 * [1108. Finding Average](https://github.com/kurong00/PAT/blob/master/1108.%20Finding%20Average.md)
 * [1112. Stucked Keyboard](https://github.com/kurong00/PAT/blob/master/1112.%20Stucked%20Keyboard.md)
+* [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
 
 ### 难度值：★★
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
