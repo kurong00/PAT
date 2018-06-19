@@ -11,6 +11,7 @@
 * [1031. Hello World for U](https://github.com/kurong00/PAT/blob/master/1031.%20Hello%20World%20for%20U.md)
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
 * [1041. Be Unique](https://github.com/kurong00/PAT/blob/master/1041.%20Be%20Unique.md)
+* [1046. Shortest Distance](https://github.com/kurong00/PAT/blob/master/1046.%20Shortest%20Distance.md)
 * [1050. String Subtraction](https://github.com/kurong00/PAT/blob/master/1050.%20String%20Subtraction.md)
 * [1054. The Dominant Color](https://github.com/kurong00/PAT/blob/master/1054.%20The%20Dominant%20Color.md)
 * [1058. A+B in Hogwarts](https://github.com/kurong00/PAT/blob/master/1058.%20A+B%20in%20Hogwarts.md)
