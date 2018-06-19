@@ -28,6 +28,7 @@
 * [1035. Password](1035. Password.md)
 * [1036. Boys vs Girls](1036. Boys vs Girls.md)
 * [1041. Be Unique](1041. Be Unique.md)
+* [1046. Shortest Distance](1046. Shortest Distance.md)
 * [1049. Counting Ones](1049 Counting Ones.md)
 * [1050. String Subtraction](1050. String Subtraction.md)
 * [1054. The Dominant Color](1054. The Dominant Color.md)
