@@ -26,6 +26,7 @@
 * [1112. Stucked Keyboard](https://github.com/kurong00/PAT/blob/master/1112.%20Stucked%20Keyboard.md)
 * [1120. Friend Numbers](https://github.com/kurong00/PAT/blob/master/1120.%20Friend%20Numbers.md)
 * [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
+* [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 
 ### 难度值：★★
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
