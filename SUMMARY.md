@@ -54,3 +54,4 @@
 * [1120. Friend Numbers](1120. Friend Numbers.md)
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
 * [1132. Cut Integer](1132. Cut Integer.md)
+* [1144. The Missing Number](1144. The Missing Number.md)
