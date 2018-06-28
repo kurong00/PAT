@@ -56,6 +56,7 @@
 * [1113. Integer Set Partition](https://github.com/kurong00/PAT/blob/master/1113.%20Integer%20Set%20Partition.md)
 * [1114. Family Property](https://github.com/kurong00/PAT/blob/master/1114.%20Family%20Property.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
+* [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
 
 ### 难度值：★★★
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
