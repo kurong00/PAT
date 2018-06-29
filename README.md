@@ -27,6 +27,7 @@
 * [1120. Friend Numbers](https://github.com/kurong00/PAT/blob/master/1120.%20Friend%20Numbers.md)
 * [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
 * [1136. A Delayed Palindrome](https://github.com/kurong00/PAT/blob/master/1136.%20A%20Delayed%20Palindrome.md)
+* [1140. Look-and-say Sequence](https://github.com/kurong00/PAT/blob/master/1140.%20Look-and-say%20Sequence.md)
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 
 ### 难度值：★★
