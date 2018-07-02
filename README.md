@@ -19,6 +19,7 @@
 * [1069. The Black Hole of Numbers](https://github.com/kurong00/PAT/blob/master/1069.%20The%20Black%20Hole%20of%20Numbers.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1084. Broken Keyboard](https://github.com/kurong00/PAT/blob/master/1084.%20Broken%20Keyboard.md)
+* [1088. Rational Arithmetic](https://github.com/kurong00/PAT/blob/master/1088.%20Rational%20Arithmetic.md)
 * [1092. To Buy or Not to Buy](https://github.com/kurong00/PAT/blob/master/1092.%20To%20Buy%20or%20Not%20to%20Buy.md)
 * [1100. Mars Numbers](https://github.com/kurong00/PAT/blob/master/1100.%20Mars%20Numbers.md)
 * [1104. Sum of Number Segments](https://github.com/kurong00/PAT/blob/master/1104.%20Sum%20of%20Number%20Segments.md)
