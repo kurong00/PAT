@@ -40,6 +40,7 @@
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)
+* [1088. Rational Arithmetic](1088. Rational Arithmetic.md)
 * [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)
 * [1093. Count PAT's](1093. Count PAT's.md)
 * [1100. Mars Numbers](1100. Mars Numbers.md)
