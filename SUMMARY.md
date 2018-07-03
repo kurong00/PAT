@@ -59,4 +59,5 @@
 * [1136. A Delayed Palindrome](1136. A Delayed Palindrome.md)
 * [1137. Final Grading](1137. Final Grading.md)
 * [1140. Look-and-say Sequence](1140. Look-and-say Sequence.md)
+* [1141. PAT Ranking of Institutions](1141. PAT Ranking of Institutions.md)
 * [1144. The Missing Number](1144. The Missing Number.md)
