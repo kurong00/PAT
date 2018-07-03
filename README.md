@@ -59,6 +59,7 @@
 * [1114. Family Property](https://github.com/kurong00/PAT/blob/master/1114.%20Family%20Property.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
 * [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
+* [1141. PAT Ranking of Institutions](https://github.com/kurong00/PAT/blob/master/1141.%20PAT%20Ranking%20of%20Institutions.md)
 
 ### 难度值：★★★
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
