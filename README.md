@@ -61,6 +61,7 @@
 * [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
 * [1141. PAT Ranking of Institutions](https://github.com/kurong00/PAT/blob/master/1141.%20PAT%20Ranking%20of%20Institutions.md)
 * [1145. Hashing - Average Search Time](https://github.com/kurong00/PAT/blob/master/1145.%20Hashing%20-%20Average%20Search%20Time.md)
+* [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 
 ### 难度值：★★★
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
