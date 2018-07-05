@@ -62,3 +62,4 @@
 * [1141. PAT Ranking of Institutions](1141. PAT Ranking of Institutions.md)
 * [1144. The Missing Number](1144. The Missing Number.md)
 * [1145. Hashing - Average Search Time](1145. Hashing - Average Search Time.md)
+* [1146. Topological Order](1146. Topological Order.md)
