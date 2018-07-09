@@ -1,5 +1,5 @@
-# PAT学习笔记
-### 难度值：★
+# 按难度划分
+### 难度值：20分值
 * [1001. A+B Format](https://github.com/kurong00/PAT/blob/master/1001.%20A%2BB%20Format.md)
 * [1005. Spell It Right](https://github.com/kurong00/PAT/blob/master/1005.%20Spell%20It%20Right.md)
 * [1008. Elevator](https://github.com/kurong00/PAT/blob/master/1008.%20Elevator.md)
@@ -33,7 +33,7 @@
 * [1140. Look-and-say Sequence](https://github.com/kurong00/PAT/blob/master/1140.%20Look-and-say%20Sequence.md)
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 
-### 难度值：★★
+### 难度值：25分值
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
 * [1006. Sign In and Sign Out](https://github.com/kurong00/PAT/blob/master/1006.%20Sign%20In%20and%20Sign%20Out.md)
@@ -65,6 +65,6 @@
 * [1145. Hashing - Average Search Time](https://github.com/kurong00/PAT/blob/master/1145.%20Hashing%20-%20Average%20Search%20Time.md)
 * [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 
-### 难度值：★★★
+### 难度值：30分值
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
 * [1049. Counting Ones](https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
