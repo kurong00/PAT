@@ -26,6 +26,7 @@
 * [1104. Sum of Number Segments](https://github.com/kurong00/PAT/blob/master/1104.%20Sum%20of%20Number%20Segments.md)
 * [1108. Finding Average](https://github.com/kurong00/PAT/blob/master/1108.%20Finding%20Average.md)
 * [1112. Stucked Keyboard](https://github.com/kurong00/PAT/blob/master/1112.%20Stucked%20Keyboard.md)
+* [1116. Come on! Let's C](https://github.com/kurong00/PAT/blob/master/1116.%20Come%20on!%20Let's%20C.md)
 * [1120. Friend Numbers](https://github.com/kurong00/PAT/blob/master/1120.%20Friend%20Numbers.md)
 * [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
 * [1136. A Delayed Palindrome](https://github.com/kurong00/PAT/blob/master/1136.%20A%20Delayed%20Palindrome.md)
