@@ -2,6 +2,8 @@
 ### 难度值：20分值
 * [1001. A+B Format](https://github.com/kurong00/PAT/blob/master/1001.%20A%2BB%20Format.md)
 * [1005. Spell It Right](https://github.com/kurong00/PAT/blob/master/1005.%20Spell%20It%20Right.md)
+* [1006. Sign In and Sign Out](https://github.com/kurong00/PAT/blob/master/1006.%20Sign%20In%20and%20Sign%20Out.md)
+* [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
 * [1008. Elevator](https://github.com/kurong00/PAT/blob/master/1008.%20Elevator.md)
 * [1011. World Cup Betting](https://github.com/kurong00/PAT/blob/master/1011.%20World%20Cup%20Betting.md)
 * [1015. Reversible Primes](https://github.com/kurong00/PAT/blob/master/1015.%20Reversible%20Primes.md)
