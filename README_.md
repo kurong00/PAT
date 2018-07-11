@@ -5,3 +5,8 @@
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
 * [1077. Kuchiguse](https://github.com/kurong00/PAT/blob/master/1077.%20Kuchiguse.md)
 
+### 数学问题
+* [1008. Elevator](https://github.com/kurong00/PAT/blob/master/1008.%20Elevator.md)
+
+### 图论算法
+* [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
