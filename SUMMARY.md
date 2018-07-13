@@ -31,6 +31,7 @@
 * [1046. Shortest Distance](1046. Shortest Distance.md)
 * [1049. Counting Ones](1049 Counting Ones.md)
 * [1050. String Subtraction](1050. String Subtraction.md)
+* [1052. Linked List Sorting](1052. Linked List Sorting.md)
 * [1054. The Dominant Color](1054. The Dominant Color.md)
 * [1058. A+B in Hogwarts](1058. A+B in Hogwarts.md)
 * [1060. Are They Equal](1060. Are They Equal.md)
