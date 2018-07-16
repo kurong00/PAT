@@ -58,6 +58,7 @@
 * [1113. Integer Set Partition](1113. Integer Set Partition.md)
 * [1114. Family Property](1114. Family Property.md) 
 * [1116. Come on! Let's C](1116. Come on! Let's C.md)
+* [1117. Eddington Number](1117. Eddington Number.md)
 * [1120. Friend Numbers](1120. Friend Numbers.md)
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
 * [1132. Cut Integer](1132. Cut Integer.md)
