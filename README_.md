@@ -7,6 +7,7 @@
 
 ### 数学问题
 * [1008. Elevator](https://github.com/kurong00/PAT/blob/master/1008.%20Elevator.md)
+* [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 
 ### 图论算法
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
