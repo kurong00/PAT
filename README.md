@@ -57,6 +57,7 @@
 * [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1085. Perfect Sequence](https://github.com/kurong00/PAT/blob/master/1085.%20Perfect%20Sequence.md)
+* [1089. Insert or Merge](https://github.com/kurong00/PAT/blob/master/1089.%20Insert%20or%20Merge.md)
 * [1093. Count PAT's](https://github.com/kurong00/PAT/blob/master/1093.%20Count%20PAT's.md)
 * [1101. Quick Sort](https://github.com/kurong00/PAT/blob/master/1101.%20Quick%20Sort.md)
 * [1105. Spiral Matrix](https://github.com/kurong00/PAT/blob/master/1105.%20Spiral%20Matrix.md)
