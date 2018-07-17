@@ -44,6 +44,7 @@
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)
 * [1088. Rational Arithmetic](1088. Rational Arithmetic.md)
+* [1089. Insert or Merge](1089. Insert or Merge.md)
 * [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)
 * [1093. Count PAT's](1093. Count PAT's.md)
 * [1096. Consecutive Factors](1096. Consecutive Factors.md)
