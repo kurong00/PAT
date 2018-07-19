@@ -55,6 +55,7 @@
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
 * [1052. Linked List Sorting](https://github.com/kurong00/PAT/blob/master/1052.%20Linked%20List%20Sorting)
 * [1060. Are They Equal](https://github.com/kurong00/PAT/blob/master/1060.%20Are%20They%20Equal.md)
+* [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
 * [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1085. Perfect Sequence](https://github.com/kurong00/PAT/blob/master/1085.%20Perfect%20Sequence.md)
