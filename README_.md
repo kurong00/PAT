@@ -12,3 +12,6 @@
 ### 图论算法
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
+
+### 动态规划
+* [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
