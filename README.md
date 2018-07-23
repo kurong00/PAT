@@ -31,6 +31,7 @@
 * [1112. Stucked Keyboard](https://github.com/kurong00/PAT/blob/master/1112.%20Stucked%20Keyboard.md)
 * [1116. Come on! Let's C](https://github.com/kurong00/PAT/blob/master/1116.%20Come%20on!%20Let's%20C.md)
 * [1120. Friend Numbers](https://github.com/kurong00/PAT/blob/master/1120.%20Friend%20Numbers.md)
+* [1128. N Queens Puzzle](https://github.com/kurong00/PAT/blob/master/1128.%20N%20Queens%20Puzzle.md)
 * [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
 * [1136. A Delayed Palindrome](https://github.com/kurong00/PAT/blob/master/1136.%20A%20Delayed%20Palindrome.md)
 * [1140. Look-and-say Sequence](https://github.com/kurong00/PAT/blob/master/1140.%20Look-and-say%20Sequence.md)
