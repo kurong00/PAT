@@ -65,6 +65,7 @@
 * [1120. Friend Numbers](1120. Friend Numbers.md)
 * [1121. Damn Single](1121. Damn Single.md)
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
+* [1128. N Queens Puzzle](1128. N Queens Puzzle.md)
 * [1132. Cut Integer](1132. Cut Integer.md)
 * [1136. A Delayed Palindrome](1136. A Delayed Palindrome.md)
 * [1137. Final Grading](1137. Final Grading.md)
