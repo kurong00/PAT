@@ -34,7 +34,7 @@
 * [1050. String Subtraction](1050. String Subtraction.md)
 * [1052. Linked List Sorting](1052. Linked List Sorting.md)
 * [1054. The Dominant Color](1054. The Dominant Color.md)
-* [1055 The World's Richest](1055 The World's Richest.md)
+* [1055 The World's Richest](1055. The World's Richest.md)
 * [1058. A+B in Hogwarts](1058. A+B in Hogwarts.md)
 * [1060. Are They Equal](1060. Are They Equal.md)
 * [1065. A+B and C](1065. A+B and C.md)
