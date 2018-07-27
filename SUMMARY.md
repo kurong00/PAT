@@ -30,6 +30,7 @@
 * [1039. Course List for Student](1039. Course List for Student.md)
 * [1041. Be Unique](1041. Be Unique.md)
 * [1046. Shortest Distance](1046. Shortest Distance.md)
+* [1048. Find Coins](1048. Find Coins.md)
 * [1049. Counting Ones](1049 Counting Ones.md)
 * [1050. String Subtraction](1050. String Subtraction.md)
 * [1052. Linked List Sorting](1052. Linked List Sorting.md)
