@@ -46,6 +46,7 @@
 * [1070. Mooncake](1070. Mooncake.md)
 * [1075. PAT Judge](1075. PAT Judge.md)
 * [1077. Kuchiguse](1077. Kuchiguse.md)
+* [1078. Hashing](1078. Hashing.md)
 * [1081. Rational Sum](1081. Rational Sum.md)
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
