@@ -85,3 +85,4 @@
 ### 难度值：30分值
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
 * [1049. Counting Ones](https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
+* [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
