@@ -14,4 +14,8 @@
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
 
 ### 动态规划
+* [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
+
+### 树
+* [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
