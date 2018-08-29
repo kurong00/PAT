@@ -68,6 +68,7 @@
 * [1114. Family Property](1114. Family Property.md) 
 * [1116. Come on! Let's C](1116. Come on! Let's C.md)
 * [1117. Eddington Number](1117. Eddington Number.md)
+* [1119. Pre- and Post-order Traversals](1119. Pre- and Post-order Traversals.md)
 * [1120. Friend Numbers](1120. Friend Numbers.md)
 * [1121. Damn Single](1121. Damn Single.md)
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
