@@ -12,6 +12,8 @@
 ### 图论算法
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
+* [1021. Deepest Root](https://github.com/kurong00/PAT/blob/master/1021.%20Deepest%20Root.md)
+* [1142. Maximal Clique](https://github.com/kurong00/PAT/blob/master/1142.%20Maximal%20Clique.md)
 
 ### 动态规划
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
