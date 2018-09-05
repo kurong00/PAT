@@ -78,6 +78,7 @@
 * [1132. Cut Integer](1132. Cut Integer.md)
 * [1136. A Delayed Palindrome](1136. A Delayed Palindrome.md)
 * [1137. Final Grading](1137. Final Grading.md)
+* [1138. Postorder Traversal](1138. Postorder Traversal.md)
 * [1140. Look-and-say Sequence](1140. Look-and-say Sequence.md)
 * [1141. PAT Ranking of Institutions](1141. PAT Ranking of Institutions.md)
 * [1142. Maximal Clique](1142. Maximal Clique.md)
