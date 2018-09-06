@@ -72,6 +72,7 @@
 * [1093. Count PAT's](https://github.com/kurong00/PAT/blob/master/1093.%20Count%20PAT's.md)
 * [1101. Quick Sort](https://github.com/kurong00/PAT/blob/master/1101.%20Quick%20Sort.md)
 * [1105. Spiral Matrix](https://github.com/kurong00/PAT/blob/master/1105.%20Spiral%20Matrix.md)
+* [1106. Lowest Price in Supply Chain](https://github.com/kurong00/PAT/blob/master/1106.%20Lowest%20Price%20in%20Supply%20Chain.md)
 * [1109. Group Photo](https://github.com/kurong00/PAT/blob/master/1109.%20Group%20Photo.md)
 * [1110. Complete Binary Tree](https://github.com/kurong00/PAT/blob/master/1110.%20Complete%20Binary%20Tree.md)
 * [1113. Integer Set Partition](https://github.com/kurong00/PAT/blob/master/1113.%20Integer%20Set%20Partition.md)
