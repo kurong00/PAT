@@ -80,6 +80,7 @@
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 * [1121. Damn Single](https://github.com/kurong00/PAT/blob/master/1121.%20Damn%20Single.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
+* [1134. Vertex Cover](https://github.com/kurong00/PAT/blob/master/1134.%20Vertex%20Cover.md)
 * [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
 * [1138. Postorder Traversal](https://github.com/kurong00/PAT/blob/master/1138.%20Postorder%20Traversal.md)
 * [1141. PAT Ranking of Institutions](https://github.com/kurong00/PAT/blob/master/1141.%20PAT%20Ranking%20of%20Institutions.md)

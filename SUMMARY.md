@@ -77,6 +77,7 @@
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
 * [1128. N Queens Puzzle](1128. N Queens Puzzle.md)
 * [1132. Cut Integer](1132. Cut Integer.md)
+* [1134. Vertex Cover](1134. Vertex Cover.md)
 * [1136. A Delayed Palindrome](1136. A Delayed Palindrome.md)
 * [1137. Final Grading](1137. Final Grading.md)
 * [1138. Postorder Traversal](1138. Postorder Traversal.md)
