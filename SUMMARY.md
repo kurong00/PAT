@@ -77,6 +77,7 @@
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
 * [1128. N Queens Puzzle](1128. N Queens Puzzle.md)
 * [1129. Recommendation System](1129. Recommendation System.md)
+* [1130. Infix Expression](1130. Infix Expression.md)
 * [1132. Cut Integer](1132. Cut Integer.md)
 * [1133. Splitting A Linked List](1133. Splitting A Linked List.md)
 * [1134. Vertex Cover](1134. Vertex Cover.md)

@@ -81,6 +81,7 @@
 * [1121. Damn Single](https://github.com/kurong00/PAT/blob/master/1121.%20Damn%20Single.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
 * [1129. Recommendation System](https://github.com/kurong00/PAT/blob/master/1129.%20Recommendation%20System.md)
+* [1130. Infix Expression](https://github.com/kurong00/PAT/blob/master/1130.%20Infix%20Expression.md)
 * [1133. Splitting A Linked List](https://github.com/kurong00/PAT/blob/master/1133.%20Splitting%20A%20Linked%20List.md)
 * [1134. Vertex Cover](https://github.com/kurong00/PAT/blob/master/1134.%20Vertex%20Cover.md)
 * [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
