@@ -92,3 +92,4 @@
 * [1145. Hashing - Average Search Time](1145. Hashing - Average Search Time.md)
 * [1146. Topological Order](1146. Topological Order.md)
 * [1149. Dangerous Goods Packaging](1149. Dangerous Goods Packaging.md)
+* [1150. Travelling Salesman Problem](1150. Travelling Salesman Problem.md)

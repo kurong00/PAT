@@ -91,6 +91,7 @@
 * [1145. Hashing - Average Search Time](https://github.com/kurong00/PAT/blob/master/1145.%20Hashing%20-%20Average%20Search%20Time.md)
 * [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 * [1149. Dangerous Goods Packaging](https://github.com/kurong00/PAT/blob/master/1149.%20Dangerous%20Goods%20Packaging.md)
+* [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
 
 ### 难度值：30分值
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
