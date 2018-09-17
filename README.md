@@ -38,6 +38,7 @@
 * [1136. A Delayed Palindrome](https://github.com/kurong00/PAT/blob/master/1136.%20A%20Delayed%20Palindrome.md)
 * [1140. Look-and-say Sequence](https://github.com/kurong00/PAT/blob/master/1140.%20Look-and-say%20Sequence.md)
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
+* [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
 
 ### 难度值：25分值
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
