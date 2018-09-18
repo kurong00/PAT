@@ -46,7 +46,7 @@
 * [1006. Sign In and Sign Out](https://github.com/kurong00/PAT/blob/master/1006.%20Sign%20In%20and%20Sign%20Out.md)
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
 * [1009. Product of Polynomials](https://github.com/kurong00/PAT/blob/master/1009.%20Product%20of%20Polynomials.md)
-* [1010 Radix](https://github.com/kurong00/PAT/blob/master/1010%20Radix.md)
+* [1010. Radix](https://github.com/kurong00/PAT/blob/master/1010%20Radix.md)
 * [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
 * [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
