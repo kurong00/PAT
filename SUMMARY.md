@@ -18,6 +18,7 @@
 * [1020. Tree Traversals](1020. Tree Traversals.md)
 * [1017. Queueing at Bank](1017. Queueing at Bank.md)
 * [1021. Deepest Root](1021. Deepest Root.md)
+* [1022. Digital Library](1022. Digital Library.md)
 * [1023. Have Fun with Numbers](1023. Have Fun with Numbers.md)
 * [1024. Palindromic Number](1024. Palindromic Number.md)
 * [1025. PAT Ranking](1025. PAT Ranking.md)
