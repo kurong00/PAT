@@ -65,6 +65,7 @@
 * [1104. Sum of Number Segments](1104. Sum of Number Segments.md)
 * [1105. Spiral Matrix](1105. Spiral Matrix.md)
 * [1106. Lowest Price in Supply Chain](1106. Lowest Price in Supply Chain.md)
+* [1107. Social Clusters](1107. Social Clusters.md)
 * [1108. Finding Average](1108. Finding Average.md)
 * [1109. Group Photo](1109. Group Photo.md)
 * [1110. Complete Binary Tree](1110. Complete Binary Tree.md)
