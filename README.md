@@ -62,6 +62,7 @@
 * [1048. Find Coins](https://github.com/kurong00/PAT/blob/master/1048.%20Find%20Coins.md)
 * [1052. Linked List Sorting](https://github.com/kurong00/PAT/blob/master/1052.%20Linked%20List%20Sorting.md)
 * [1055 The World's Richest](https://github.com/kurong00/PAT/blob/master/1055.%20The%20World's%20Richest.md)
+* [1056. Mice and Rice](https://github.com/kurong00/PAT/blob/master/1056.%20Mice%20and%20Rice.md)
 * [1060. Are They Equal](https://github.com/kurong00/PAT/blob/master/1060.%20Are%20They%20Equal.md)
 * [1067. Sort with Swap(0,-)](https://github.com/kurong00/PAT/blob/master/1067.%20Sort%20with%20Swap(0,-).md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
