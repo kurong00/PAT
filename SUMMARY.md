@@ -39,6 +39,7 @@
 * [1049. Counting Ones](1049 Counting Ones.md)
 * [1050. String Subtraction](1050. String Subtraction.md)
 * [1052. Linked List Sorting](1052. Linked List Sorting.md)
+* [1053 Path of Equal Weight](1053 Path of Equal Weight.md)
 * [1054. The Dominant Color](1054. The Dominant Color.md)
 * [1055 The World's Richest](1055. The World's Richest.md)
 * [1056. Mice and Rice](1056. Mice and Rice.md)
