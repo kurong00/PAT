@@ -96,6 +96,7 @@
 * [1144. The Missing Number](1144. The Missing Number.md)
 * [1145. Hashing - Average Search Time](1145. Hashing - Average Search Time.md)
 * [1146. Topological Order](1146. Topological Order.md)
+* [1147. Heaps](1147. Heaps.md)
 * [1148. Werewolf - Simple Version](1148. Werewolf - Simple Version.md)
 * [1149. Dangerous Goods Packaging](1149. Dangerous Goods Packaging.md)
 * [1150. Travelling Salesman Problem](1150. Travelling Salesman Problem.md)
