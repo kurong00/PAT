@@ -79,6 +79,7 @@
 * [1119. Pre- and Post-order Traversals](1119. Pre- and Post-order Traversals.md)
 * [1120. Friend Numbers](1120. Friend Numbers.md)
 * [1121. Damn Single](1121. Damn Single.md)
+* [1122. Hamiltonian Cycle](1122. Hamiltonian Cycle.md)
 * [1125. Chain the Ropes](1125. Chain the Ropes,md)
 * [1128. N Queens Puzzle](1128. N Queens Puzzle.md)
 * [1129. Recommendation System](1129. Recommendation System.md)
