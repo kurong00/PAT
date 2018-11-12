@@ -81,6 +81,7 @@
 * [1114. Family Property](https://github.com/kurong00/PAT/blob/master/1114.%20Family%20Property.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 * [1121. Damn Single](https://github.com/kurong00/PAT/blob/master/1121.%20Damn%20Single.md)
+* [1122. Hamiltonian Cycle](https://github.com/kurong00/PAT/blob/master/1122.%20Hamiltonian%20Cycle.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
 * [1129. Recommendation System](https://github.com/kurong00/PAT/blob/master/1129.%20Recommendation%20System.md)
 * [1130. Infix Expression](https://github.com/kurong00/PAT/blob/master/1130.%20Infix%20Expression.md)
