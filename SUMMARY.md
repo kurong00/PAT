@@ -105,3 +105,4 @@
 * [1149. Dangerous Goods Packaging](1149. Dangerous Goods Packaging.md)
 * [1150. Travelling Salesman Problem](1150. Travelling Salesman Problem.md)
 * [1151. LCA in a Binary Tree](1151. LCA in a Binary Tree.md)
+* [1155. Heap Paths](1155. Heap Paths.md)
