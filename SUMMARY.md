@@ -105,5 +105,6 @@
 * [1149. Dangerous Goods Packaging](1149. Dangerous Goods Packaging.md)
 * [1150. Travelling Salesman Problem](1150. Travelling Salesman Problem.md)
 * [1151. LCA in a Binary Tree](1151. LCA in a Binary Tree.md)
+* [1153. Decode Registration Card of PAT](1153. Decode Registration Card of PAT.md)
 * [1154. Vertex Coloring](1154. Vertex Coloring.md)
 * [1155. Heap Paths](1155. Heap Paths.md)
