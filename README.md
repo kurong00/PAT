@@ -95,6 +95,7 @@
 * [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 * [1149. Dangerous Goods Packaging](https://github.com/kurong00/PAT/blob/master/1149.%20Dangerous%20Goods%20Packaging.md)
 * [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
+* [1152. Google Recruitment](https://github.com/kurong00/PAT/blob/master/1152.%20Google%20Recruitment.md)
 * [1153. Decode Registration Card of PAT](https://github.com/kurong00/PAT/blob/master/1153.%20Decode%20Registration%20Card%20of%20PAT.md)
 * [1154. Vertex Coloring](https://github.com/kurong00/PAT/blob/master/1154.%20Vertex%20Coloring.md)
 
