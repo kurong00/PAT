@@ -57,6 +57,7 @@
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)
+* [1087. All Roads Lead to Rome](1087. All Roads Lead to Rome.md)
 * [1088. Rational Arithmetic](1088. Rational Arithmetic.md)
 * [1089. Insert or Merge](1089. Insert or Merge.md)
 * [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)

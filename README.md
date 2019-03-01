@@ -105,6 +105,7 @@
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
 * [1049. Counting Ones](https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
+* [1087. All Roads Lead to Rome](https://github.com/kurong00/PAT/blob/master/1087.%20All%20Roads%20Lead%20to%20Rome)
 * [1107. Social Clusters](https://github.com/kurong00/PAT/blob/master/1107.%20Social%20Clusters.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
 * [1127. ZigZagging on a Tree](https://github.com/kurong00/PAT/blob/master/1127.%20ZigZagging%20on%20a%20Tree.md)
