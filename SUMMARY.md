@@ -25,6 +25,7 @@
 * [1027. Colors in Mars](1027. Colors in Mars.md)
 * [1028. List Sorting](1028. List Sorting.md)
 * [1029. Median](1029. Median.md)
+* [1030 Travel Plan](1030 Travel Plan.md)
 * [1031. Hello World for U](1031.Hello World for U.md)
 * [1032. Sharing](1032. Sharing.md)
 * [1034. Head of a Gang](1034. Head of a Gang.md)
