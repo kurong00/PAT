@@ -1,5 +1,7 @@
 # 按难度划分
-### 难度值：20分值
+
+## 难度值：20分值
+
 * [1001. A+B Format](https://github.com/kurong00/PAT/blob/master/1001.%20A%2BB%20Format.md)
 * [1005. Spell It Right](https://github.com/kurong00/PAT/blob/master/1005.%20Spell%20It%20Right.md)
 * [1006. Sign In and Sign Out](https://github.com/kurong00/PAT/blob/master/1006.%20Sign%20In%20and%20Sign%20Out.md)
@@ -40,7 +42,8 @@
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 * [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
 
-### 难度值：25分值
+## 难度值：25分值
+
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
 * [1006. Sign In and Sign Out](https://github.com/kurong00/PAT/blob/master/1006.%20Sign%20In%20and%20Sign%20Out.md)
@@ -99,7 +102,8 @@
 * [1153. Decode Registration Card of PAT](https://github.com/kurong00/PAT/blob/master/1153.%20Decode%20Registration%20Card%20of%20PAT.md)
 * [1154. Vertex Coloring](https://github.com/kurong00/PAT/blob/master/1154.%20Vertex%20Coloring.md)
 
-### 难度值：30分值
+## 难度值：30分值
+
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
 * [1022. Digital Library](https://github.com/kurong00/PAT/blob/master/1022.%20Digital%20Library.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
