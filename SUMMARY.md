@@ -84,6 +84,7 @@
 * [1121. Damn Single](1121. Damn Single.md)
 * [1122. Hamiltonian Cycle](1122. Hamiltonian Cycle.md)
 * [1125. Chain the Ropes](1125. Chain the Ropes.md)
+* [1126. Eulerian Path](1126. Eulerian Path.md)
 * [1127. ZigZagging on a Tree](1127. ZigZagging on a Tree.md)
 * [1128. N Queens Puzzle](1128. N Queens Puzzle.md)
 * [1129. Recommendation System](1129. Recommendation System.md)
