@@ -38,6 +38,7 @@
 * [1046. Shortest Distance](1046. Shortest Distance.md)
 * [1048. Find Coins](1048. Find Coins.md)
 * [1049. Counting Ones](1049 Counting Ones.md)
+* [1051. Pop Sequence](1051. Pop Sequence.md)
 * [1050. String Subtraction](1050. String Subtraction.md)
 * [1052. Linked List Sorting](1052. Linked List Sorting.md)
 * [1053. Path of Equal Weight](1053. Path of Equal Weight.md)
