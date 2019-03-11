@@ -51,6 +51,7 @@
 * [1067. Sort with Swap(0,-)](1067. Sort with Swap(0,-).md)
 * [1069. The Black Hole of Numbers](1069. The Black Hole of Numbers.md)
 * [1070. Mooncake](1070. Mooncake.md)
+* [1074. Reversing Linked List](1074. Reversing Linked List.md)
 * [1075. PAT Judge](1075. PAT Judge.md)
 * [1077. Kuchiguse](1077. Kuchiguse.md)
 * [1078. Hashing](1078. Hashing.md)

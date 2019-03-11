@@ -69,6 +69,7 @@
 * [1060. Are They Equal](https://github.com/kurong00/PAT/blob/master/1060.%20Are%20They%20Equal.md)
 * [1067. Sort with Swap(0,-)](https://github.com/kurong00/PAT/blob/master/1067.%20Sort%20with%20Swap(0,-).md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
+* [1074. Reversing Linked List](https://github.com/kurong00/PAT/blob/master/1074.%20Reversing%20Linked%20List.md)
 * [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
 * [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
