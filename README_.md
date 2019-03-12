@@ -39,3 +39,4 @@
 ## 并查集
 
 * [1107. Social Clusters](https://github.com/kurong00/PAT/blob/master/1107.%20Social%20Clusters.md)
+* [1118. Birds in Forest](https://github.com/kurong00/PAT/blob/master/1118.%20Birds%20in%20Forest.md)
