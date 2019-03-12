@@ -85,6 +85,7 @@
 * [1113. Integer Set Partition](https://github.com/kurong00/PAT/blob/master/1113.%20Integer%20Set%20Partition.md)
 * [1114. Family Property](https://github.com/kurong00/PAT/blob/master/1114.%20Family%20Property.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
+* [1118. Birds in Forest](https://github.com/kurong00/PAT/blob/master/1118.%20Birds%20in%20Forest.md)
 * [1121. Damn Single](https://github.com/kurong00/PAT/blob/master/1121.%20Damn%20Single.md)
 * [1122. Hamiltonian Cycle](https://github.com/kurong00/PAT/blob/master/1122.%20Hamiltonian%20Cycle.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
