@@ -32,6 +32,7 @@
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1043. Is It a Binary Search Tree.MD](https://github.com/kurong00/PAT/blob/master/1043.%20Is%20It%20a%20Binary%20Search%20Tree.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
+* [1115. Counting Nodes in a BST](https://github.com/kurong00/PAT/blob/master/1115.%20Counting%20Nodes%20in%20a%20BST.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
 * [1143. Lowest Common Ancestor](https://github.com/kurong00/PAT/blob/master/1143.%20Lowest%20Common%20Ancestor.md)
 * [1151. LCA in a Binary Tree](https://github.com/kurong00/PAT/blob/master/1151.%20LCA%20in%20a%20Binary%20ree.md)
