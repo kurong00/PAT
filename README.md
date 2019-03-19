@@ -76,6 +76,7 @@
 * [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1085. Perfect Sequence](https://github.com/kurong00/PAT/blob/master/1085.%20Perfect%20Sequence.md)
+* [1086. Tree Traversals Again](https://github.com/kurong00/PAT/blob/master/1086.%20Tree%20Traversals%20Again.md)
 * [1089. Insert or Merge](https://github.com/kurong00/PAT/blob/master/1089.%20Insert%20or%20Merge.md)
 * [1093. Count PAT's](https://github.com/kurong00/PAT/blob/master/1093.%20Count%20PAT's.md)
 * [1101. Quick Sort](https://github.com/kurong00/PAT/blob/master/1101.%20Quick%20Sort.md)
