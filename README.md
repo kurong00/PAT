@@ -69,6 +69,7 @@
 * [1055 The World's Richest](https://github.com/kurong00/PAT/blob/master/1055.%20The%20World's%20Richest.md)
 * [1056. Mice and Rice](https://github.com/kurong00/PAT/blob/master/1056.%20Mice%20and%20Rice.md)
 * [1060. Are They Equal](https://github.com/kurong00/PAT/blob/master/1060.%20Are%20They%20Equal.md)
+* [1066. Root of AVL Tree](https://github.com/kurong00/PAT/blob/master/1066.%20Root%20of%20AVL%20Tree.md)
 * [1067. Sort with Swap(0,-)](https://github.com/kurong00/PAT/blob/master/1067.%20Sort%20with%20Swap(0,-).md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
 * [1074. Reversing Linked List](https://github.com/kurong00/PAT/blob/master/1074.%20Reversing%20Linked%20List.md)
