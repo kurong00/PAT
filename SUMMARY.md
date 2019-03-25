@@ -48,6 +48,7 @@
 * [1058. A+B in Hogwarts](1058. A+B in Hogwarts.md)
 * [1060. Are They Equal](1060. Are They Equal.md)
 * [1061. Dating](1061. Dating.md)
+* [1064. Complete Binary Search Tree](1064. Complete Binary Search Tree.md)
 * [1065. A+B and C](1065. A+B and C.md)
 * [1066. Root of AVL Tree](1066. Root of AVL Tree.md)
 * [1067. Sort with Swap(0,-)](1067. Sort with Swap(0,-).md)
