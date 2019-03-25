@@ -50,6 +50,10 @@
 * [1099. Build A Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1099.%20Build%20A%20Binary%20Search%20Tree.md)
 * [1115. Counting Nodes in a BST](https://github.com/kurong00/PAT/blob/master/1115.%20Counting%20Nodes%20in%20a%20BST.md)
 
+### AVL树
+
+* [1066. Root of AVL Tree](https://github.com/kurong00/PAT/blob/master/1066.%20Root%20of%20AVL%20Tree.md)
+
 ## 并查集
 
 * [1107. Social Clusters](https://github.com/kurong00/PAT/blob/master/1107.%20Social%20Clusters.md)
