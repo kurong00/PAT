@@ -46,7 +46,8 @@
 
 ### BST树
 
-* [1043. Is It a Binary Search Tree.MD](https://github.com/kurong00/PAT/blob/master/1043.%20Is%20It%20a%20Binary%20Search%20Tree.md)
+* [1043. Is It a Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1043.%20Is%20It%20a%20Binary%20Search%20Tree.md)
+* [1064. Complete Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1064.%20Complete%20Binary%20Search%20Tree.md)
 * [1099. Build A Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1099.%20Build%20A%20Binary%20Search%20Tree.md)
 * [1115. Counting Nodes in a BST](https://github.com/kurong00/PAT/blob/master/1115.%20Counting%20Nodes%20in%20a%20BST.md)
 

@@ -33,7 +33,7 @@
 * [1036. Boys vs Girls](1036. Boys vs Girls.md)
 * [1039. Course List for Student](1039. Course List for Student.md)
 * [1041. Be Unique](1041. Be Unique.md)
-* [1043. Is It a Binary Search Tree.MD](1043. Is It a Binary Search Tree.MD.md)
+* [1043. Is It a Binary Search Tree](1043. Is It a Binary Search Tree.md)
 * [1042. Shuffling Machine](1042. Shuffling Machine.md)
 * [1046. Shortest Distance](1046. Shortest Distance.md)
 * [1048. Find Coins](1048. Find Coins.md)
