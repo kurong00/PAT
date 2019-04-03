@@ -73,6 +73,7 @@
 * [1100. Mars Numbers](1100. Mars Numbers.md)
 * [1101. Quick Sort](1101. Quick Sort.md)
 * [1102. Invert a Binary Tree](1102. Invert a Binary Tree.md)
+* [1103. Integer Factorization](1103. Integer Factorization.md)
 * [1104. Sum of Number Segments](1104. Sum of Number Segments.md)
 * [1105. Spiral Matrix](1105. Spiral Matrix.md)
 * [1106. Lowest Price in Supply Chain](1106. Lowest Price in Supply Chain.md)
