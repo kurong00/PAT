@@ -125,6 +125,7 @@
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1115. Counting Nodes in a BST](https://github.com/kurong00/PAT/blob/master/1115.%20Counting%20Nodes%20in%20a%20BST.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
+* [1123. Is It a Complete AVL Tree](https://github.com/kurong00/PAT/blob/master/1123.%20Is%20It%20a%20Complete%20AVL%20Tree.md)
 * [1127. ZigZagging on a Tree](https://github.com/kurong00/PAT/blob/master/1127.%20ZigZagging%20on%20a%20Tree.md)
 * [1135. Is It A Red-Black Tree](https://github.com/kurong00/PAT/blob/master/1135.%20Is%20It%20A%20Red-Black%20Tree.md)
 * [1139. First Contact](https://github.com/kurong00/PAT/blob/master/1139.%20First%20Contact.md)
