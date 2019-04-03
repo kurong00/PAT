@@ -31,6 +31,10 @@
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1142. Maximal Clique](https://github.com/kurong00/PAT/blob/master/1142.%20Maximal%20Clique.md)
 
+### DFS
+
+* [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
+
 ## 动态规划
 
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
@@ -55,6 +59,7 @@
 ### AVL树
 
 * [1066. Root of AVL Tree](https://github.com/kurong00/PAT/blob/master/1066.%20Root%20of%20AVL%20Tree.md)
+* [1123. Is It a Complete AVL Tree](https://github.com/kurong00/PAT/blob/master/1123.%20Is%20It%20a%20Complete%20AVL%20Tree.md)
 
 ## 并查集
 
