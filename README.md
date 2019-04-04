@@ -1,4 +1,4 @@
-# 按难度划分
+# 按难度划分  [按类型划分](https://github.com/kurong00/PAT/blob/master/README_.md)
 
 ## 难度值：20分值
 
@@ -55,7 +55,7 @@
 * [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1021. Deepest Root](https://github.com/kurong00/PAT/blob/master/1021.%20Deepest%20Root.md)
-* [1024. Palindromic Number](1024.%20Palindromic%20Number)
+* [1024. Palindromic Number](https://github.com/kurong00/PAT/blob/master/1024.%20Palindromic%20Number)
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
@@ -121,7 +121,7 @@
 * [1064. Complete Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1064.%20Complete%20Binary%20Search%20Tree.md)
 * [1087. All Roads Lead to Rome](https://github.com/kurong00/PAT/blob/master/1087.%20All%20Roads%20Lead%20to%20Rome)
 * [1099. Build A Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1099.%20Build%20A%20Binary%20Search%20Tree.md)
-* [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
+* [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer Factorization.md)
 * [1107. Social Clusters](https://github.com/kurong00/PAT/blob/master/1107.%20Social%20Clusters.md)
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1115. Counting Nodes in a BST](https://github.com/kurong00/PAT/blob/master/1115.%20Counting%20Nodes%20in%20a%20BST.md)
