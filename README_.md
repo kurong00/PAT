@@ -6,6 +6,7 @@
 * [1005. Spell It Right](https://github.com/kurong00/PAT/blob/master/1005.%20Spell%20It%20Right.md)
 * [1006. Sign In and Sign Out](https://github.com/kurong00/PAT/blob/master/1006.%20Sign%20In%20and%20Sign%20Out.md)
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
+* [1027. Colors in Mars](https://github.com/kurong00/PAT/blob/master/1027.%20Colors%20in%20Mars.md)
 * [1061. Dating](https://github.com/kurong00/PAT/blob/master/1061.%20Dating.md)
 * [1077. Kuchiguse](https://github.com/kurong00/PAT/blob/master/1077.%20Kuchiguse.md)
 
@@ -16,23 +17,26 @@
 * [1009. Product of Polynomials](https://github.com/kurong00/PAT/blob/master/1009.%20Product%20of%20Polynomials.md)
 * [1010. Radix](https://github.com/kurong00/PAT/blob/master/1010%20Radix.md)
 * [1011. World Cup Betting](https://github.com/kurong00/PAT/blob/master/1011.%20World%20Cup%20Betting.md)
-* [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
 * [1015. Reversible Primes](https://github.com/kurong00/PAT/blob/master/1015.%20Reversible%20Primes.md)
-* [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1019. General Palindromic Number](https://github.com/kurong00/PAT/blob/master/1015.%20Reversible%20Primes.md)
 * [1023. Have Fun with Numbers](https://github.com/kurong00/PAT/blob/master/1023.%20Have%20Fun%20with%20Numbers.md)
 * [1024. Palindromic Number](https://github.com/kurong00/PAT/blob/master/1024.%20Palindromic%20Number)
+* [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 
 ## 大排序
 
+* [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
+* [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
+* [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 
 ## 图论算法
 
 ### Dijkstra
 
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
+* [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1142. Maximal Clique](https://github.com/kurong00/PAT/blob/master/1142.%20Maximal%20Clique.md)
@@ -41,6 +45,7 @@
 
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
 * [1021. Deepest Root](https://github.com/kurong00/PAT/blob/master/1021.%20Deepest%20Root.md)
+* [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
 * [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
 
 ## 动态规划

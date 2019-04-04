@@ -121,7 +121,7 @@
 * [1064. Complete Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1064.%20Complete%20Binary%20Search%20Tree.md)
 * [1087. All Roads Lead to Rome](https://github.com/kurong00/PAT/blob/master/1087.%20All%20Roads%20Lead%20to%20Rome)
 * [1099. Build A Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1099.%20Build%20A%20Binary%20Search%20Tree.md)
-* [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer Factorization.md)
+* [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
 * [1107. Social Clusters](https://github.com/kurong00/PAT/blob/master/1107.%20Social%20Clusters.md)
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1115. Counting Nodes in a BST](https://github.com/kurong00/PAT/blob/master/1115.%20Counting%20Nodes%20in%20a%20BST.md)
