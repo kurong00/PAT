@@ -28,12 +28,18 @@
 
 ## 大排序
 
+### 排序模拟
+
 * [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
 * [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
+
+### 排序问题
+
+* [1098. Insertion or Heap Sort](https://github.com/kurong00/PAT/blob/master/1098.%20Insertion%20or%20Heap%20Sort.md)
 
 ## 图论算法
 
