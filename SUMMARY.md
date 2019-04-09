@@ -69,6 +69,7 @@
 * [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)
 * [1093. Count PAT's](1093. Count PAT's.md)
 * [1096. Consecutive Factors](1096. Consecutive Factors.md)
+* [1097. Deduplication on a Linked List](1097. Deduplication on a Linked List.md)
 * [1098. Insertion or Heap Sort](1098. Insertion or Heap Sort.md)
 * [1099. Build A Binary Search Tree](1099. Build A Binary Search Tree.md)
 * [1100. Mars Numbers](1100. Mars Numbers.md)
