@@ -122,6 +122,7 @@
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
 * [1064. Complete Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1064.%20Complete%20Binary%20Search%20Tree.md)
 * [1087. All Roads Lead to Rome](https://github.com/kurong00/PAT/blob/master/1087.%20All%20Roads%20Lead%20to%20Rome)
+* [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
 * [1099. Build A Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1099.%20Build%20A%20Binary%20Search%20Tree.md)
 * [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
 * [1107. Social Clusters](https://github.com/kurong00/PAT/blob/master/1107.%20Social%20Clusters.md)
