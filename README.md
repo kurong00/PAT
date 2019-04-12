@@ -80,6 +80,7 @@
 * [1086. Tree Traversals Again](https://github.com/kurong00/PAT/blob/master/1086.%20Tree%20Traversals%20Again.md)
 * [1089. Insert or Merge](https://github.com/kurong00/PAT/blob/master/1089.%20Insert%20or%20Merge.md)
 * [1093. Count PAT's](https://github.com/kurong00/PAT/blob/master/1093.%20Count%20PAT's.md)
+* [1094. The Largest Generation](https://github.com/kurong00/PAT/blob/master/1094.%20The%20Largest%20Generation.md)
 * [1097. Deduplication on a Linked List](https://github.com/kurong00/PAT/blob/master/1097.%20Deduplication%20on%20a%20Linked%20List.md)
 * [1098. Insertion or Heap Sort](https://github.com/kurong00/PAT/blob/master/1098.%20Insertion%20or%20Heap%20Sort.md)
 * [1101. Quick Sort](https://github.com/kurong00/PAT/blob/master/1101.%20Quick%20Sort.md)

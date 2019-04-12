@@ -68,6 +68,7 @@
 * [1089. Insert or Merge](1089. Insert or Merge.md)
 * [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)
 * [1093. Count PAT's](1093. Count PAT's.md)
+* [1094. The Largest Generation](1094. The Largest Generation.md)
 * [1095. Cars on Campus](1095. Cars on Campus.md)
 * [1096. Consecutive Factors](1096. Consecutive Factors.md)
 * [1097. Deduplication on a Linked List](1097. Deduplication on a Linked List.md)
