@@ -59,6 +59,10 @@
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
 * [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
 
+### BFS
+
+* [1094. The Largest Generation](https://github.com/kurong00/PAT/blob/master/1094.%20The%20Largest%20Generation.md)
+
 ## 动态规划
 
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
