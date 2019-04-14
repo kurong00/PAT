@@ -11,6 +11,7 @@
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
 * [1061. Dating](https://github.com/kurong00/PAT/blob/master/1061.%20Dating.md)
 * [1077. Kuchiguse](https://github.com/kurong00/PAT/blob/master/1077.%20Kuchiguse.md)
+* [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)
 
 ## 数学问题
 
@@ -24,6 +25,7 @@
 * [1023. Have Fun with Numbers](https://github.com/kurong00/PAT/blob/master/1023.%20Have%20Fun%20with%20Numbers.md)
 * [1024. Palindromic Number](https://github.com/kurong00/PAT/blob/master/1024.%20Palindromic%20Number)
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
+* [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 
 ## 大排序
@@ -36,6 +38,8 @@
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
+* [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
+* [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
 
 ### 排序问题
