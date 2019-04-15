@@ -52,6 +52,7 @@
 
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
+* [1072. Gas Station](https://github.com/kurong00/PAT/blob/master/1072.%20Gas%20Station.md)
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1142. Maximal Clique](https://github.com/kurong00/PAT/blob/master/1142.%20Maximal%20Clique.md)
 
