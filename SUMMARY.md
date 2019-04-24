@@ -67,6 +67,7 @@
 * [1087. All Roads Lead to Rome](1087. All Roads Lead to Rome.md)
 * [1088. Rational Arithmetic](1088. Rational Arithmetic.md)
 * [1089. Insert or Merge](1089. Insert or Merge.md)
+* [1091. Acute Stroke](1091. Acute Stroke.md)
 * [1092. To Buy or Not to Buy](1092. To Buy or Not to Buy.md)
 * [1093. Count PAT's](1093. Count PAT's.md)
 * [1094. The Largest Generation](1094. The Largest Generation.md)
