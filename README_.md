@@ -66,6 +66,7 @@
 
 ### BFS
 
+* [1091. Acute Stroke](https://github.com/kurong00/PAT/blob/master/1091.%20Acute%20Stroke.md)
 * [1094. The Largest Generation](https://github.com/kurong00/PAT/blob/master/1094.%20The%20Largest%20Generation.md)
 
 ## 动态规划
