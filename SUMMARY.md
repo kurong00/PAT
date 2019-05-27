@@ -60,6 +60,7 @@
 * [1077. Kuchiguse](1077. Kuchiguse.md)
 * [1078. Hashing](1078. Hashing.md)
 * [1081. Rational Sum](1081. Rational Sum.md)
+* [1082. Read Number in Chinese](1082. Read Number in Chinese.md)
 * [1083. List Grades](1083. List Grades.md)
 * [1084. Broken Keyboard](1084. Broken Keyboard.md)
 * [1085. Perfect Sequence](1085. Perfect Sequence.md)

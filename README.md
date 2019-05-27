@@ -75,6 +75,7 @@
 * [1074. Reversing Linked List](https://github.com/kurong00/PAT/blob/master/1074.%20Reversing%20Linked%20List.md)
 * [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
 * [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)
+* [1082. Read Number in Chinese](https://github.com/kurong00/PAT/blob/master/1082.%20Read%20Number%20in%20Chinese.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1085. Perfect Sequence](https://github.com/kurong00/PAT/blob/master/1085.%20Perfect%20Sequence.md)
 * [1086. Tree Traversals Again](https://github.com/kurong00/PAT/blob/master/1086.%20Tree%20Traversals%20Again.md)
