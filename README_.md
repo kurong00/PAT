@@ -62,6 +62,7 @@
 * [1021. Deepest Root](https://github.com/kurong00/PAT/blob/master/1021.%20Deepest%20Root.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
+* [1090 Highest Price in Supply Chain](https://github.com/kurong00/PAT/blob/master/1090.%20Highest%20Price%20in%20Supply%20Chain.md)
 * [1103. Integer Factorization](https://github.com/kurong00/PAT/blob/master/1103.%20Integer%20Factorization.md)
 
 ### BFS
