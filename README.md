@@ -79,6 +79,7 @@
 * [1085. Perfect Sequence](https://github.com/kurong00/PAT/blob/master/1085.%20Perfect%20Sequence.md)
 * [1086. Tree Traversals Again](https://github.com/kurong00/PAT/blob/master/1086.%20Tree%20Traversals%20Again.md)
 * [1089. Insert or Merge](https://github.com/kurong00/PAT/blob/master/1089.%20Insert%20or%20Merge.md)
+* [1090 Highest Price in Supply Chain](https://github.com/kurong00/PAT/blob/master/1090.%20Highest%20Price%20in%20Supply%20Chain.md)
 * [1093. Count PAT's](https://github.com/kurong00/PAT/blob/master/1093.%20Count%20PAT's.md)
 * [1094. The Largest Generation](https://github.com/kurong00/PAT/blob/master/1094.%20The%20Largest%20Generation.md)
 * [1097. Deduplication on a Linked List](https://github.com/kurong00/PAT/blob/master/1097.%20Deduplication%20on%20a%20Linked%20List.md)
