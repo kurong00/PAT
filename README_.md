@@ -12,6 +12,7 @@
 * [1061. Dating](https://github.com/kurong00/PAT/blob/master/1061.%20Dating.md)
 * [1077. Kuchiguse](https://github.com/kurong00/PAT/blob/master/1077.%20Kuchiguse.md)
 * [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)
+* [1082. Read Number in Chinese](https://github.com/kurong00/PAT/blob/master/1082.%20Read%20Number%20in%20Chinese.md)
 
 ## 数学问题
 
