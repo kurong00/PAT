@@ -125,6 +125,7 @@
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
 * [1064. Complete Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1064.%20Complete%20Binary%20Search%20Tree.md)
 * [1072. Gas Station](https://github.com/kurong00/PAT/blob/master/1072.%20Gas%20Station.md)
+* [1080. Graduate Admission](https://github.com/kurong00/PAT/blob/master/1080.%20Graduate%20Admission.md)
 * [1087. All Roads Lead to Rome](https://github.com/kurong00/PAT/blob/master/1087.%20All%20Roads%20Lead%20to%20Rome)
 * [1091. Acute Stroke](https://github.com/kurong00/PAT/blob/master/1091.%20Acute%20Stroke.md)
 * [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
