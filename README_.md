@@ -70,6 +70,7 @@
 
 ### BFS
 
+* [1076. Forwards on Weibo](https://github.com/kurong00/PAT/blob/master/1076.%20Forwards%20on%20Weibo.md)
 * [1091. Acute Stroke](https://github.com/kurong00/PAT/blob/master/1091.%20Acute%20Stroke.md)
 * [1094. The Largest Generation](https://github.com/kurong00/PAT/blob/master/1094.%20The%20Largest%20Generation.md)
 
