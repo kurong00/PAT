@@ -55,6 +55,7 @@
 * [1069. The Black Hole of Numbers](1069. The Black Hole of Numbers.md)
 * [1070. Mooncake](1070. Mooncake.md)
 * [1072. Gas Station](1072. Gas Station.md)
+* [1073. Scientific Notation](1073. Scientific Notation.md)
 * [1074. Reversing Linked List](1074. Reversing Linked List.md)
 * [1075. PAT Judge](1075. PAT Judge.md)
 * [1076. Forwards on Weibo](1076. Forwards on Weibo.md)

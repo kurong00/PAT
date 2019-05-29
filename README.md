@@ -23,6 +23,7 @@
 * [1061. Dating](https://github.com/kurong00/PAT/blob/master/1061.%20Dating.md)
 * [1065. A+B and C](https://github.com/kurong00/PAT/blob/master/1065.%20A+B%20and%20C.md)
 * [1069. The Black Hole of Numbers](https://github.com/kurong00/PAT/blob/master/1069.%20The%20Black%20Hole%20of%20Numbers.md)
+* [1073. Scientific Notation](https://github.com/kurong00/PAT/blob/master/1073.%20Scientific%20Notation.md)
 * [1077. Kuchiguse](https://github.com/kurong00/PAT/blob/master/1077.%20Kuchiguse.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1084. Broken Keyboard](https://github.com/kurong00/PAT/blob/master/1084.%20Broken%20Keyboard.md)
