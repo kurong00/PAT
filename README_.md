@@ -81,6 +81,10 @@
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
 
+### 背包问题
+
+* [1068. Find More Coins](https://github.com/kurong00/PAT/blob/master/1068.%20Find%20More%20Coins.md)
+
 ## 树
 
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
