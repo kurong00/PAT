@@ -73,6 +73,7 @@
 * [1066. Root of AVL Tree](https://github.com/kurong00/PAT/blob/master/1066.%20Root%20of%20AVL%20Tree.md)
 * [1067. Sort with Swap(0,-)](https://github.com/kurong00/PAT/blob/master/1067.%20Sort%20with%20Swap(0,-).md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
+* [1071. Speech Patterns](https://github.com/kurong00/PAT/blob/master/1071.%20Speech%20Patterns.md)
 * [1074. Reversing Linked List](https://github.com/kurong00/PAT/blob/master/1074.%20Reversing%20Linked%20List.md)
 * [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
 * [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)

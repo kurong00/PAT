@@ -54,6 +54,7 @@
 * [1067. Sort with Swap(0,-)](1067. Sort with Swap(0,-).md)
 * [1069. The Black Hole of Numbers](1069. The Black Hole of Numbers.md)
 * [1070. Mooncake](1070. Mooncake.md)
+* [1071. Speech Patterns](1071. Speech Patterns.md)
 * [1072. Gas Station](1072. Gas Station.md)
 * [1073. Scientific Notation](1073. Scientific Notation.md)
 * [1074. Reversing Linked List](1074. Reversing Linked List.md)
