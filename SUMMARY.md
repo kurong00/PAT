@@ -52,6 +52,7 @@
 * [1065. A+B and C](1065. A+B and C.md)
 * [1066. Root of AVL Tree](1066. Root of AVL Tree.md)
 * [1067. Sort with Swap(0,-)](1067. Sort with Swap(0,-).md)
+* [1068. Find More Coins](1068. Find More Coins.md)
 * [1069. The Black Hole of Numbers](1069. The Black Hole of Numbers.md)
 * [1070. Mooncake](1070. Mooncake.md)
 * [1071. Speech Patterns](1071. Speech Patterns.md)
