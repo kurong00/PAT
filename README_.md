@@ -28,6 +28,7 @@
 * [1023. Have Fun with Numbers](https://github.com/kurong00/PAT/blob/master/1023.%20Have%20Fun%20with%20Numbers.md)
 * [1024. Palindromic Number](https://github.com/kurong00/PAT/blob/master/1024.%20Palindromic%20Number)
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
+* [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 
