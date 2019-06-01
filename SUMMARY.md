@@ -46,6 +46,7 @@
 * [1055. The World's Richest](1055. The World's Richest.md)
 * [1056. Mice and Rice](1056. Mice and Rice.md)
 * [1058. A+B in Hogwarts](1058. A+B in Hogwarts.md)
+* [1059. Prime Factors](1059. Prime Factors.md)
 * [1060. Are They Equal](1060. Are They Equal.md)
 * [1061. Dating](1061. Dating.md)
 * [1062. Talent and Virtue](1062. Talent and Virtue.md)
