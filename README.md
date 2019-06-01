@@ -64,6 +64,7 @@
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
 * [1043. Is It a Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1043.%20Is%20It%20a%20Binary%20Search%20Tree.md)
+* [1047. Student List for Course](https://github.com/kurong00/PAT/blob/master/1047.%20Student%20List%20for%20Course.md)
 * [1051. Pop Sequence](https://github.com/kurong00/PAT/blob/master/1051.%20Pop%20Sequence.md)
 * [1048. Find Coins](https://github.com/kurong00/PAT/blob/master/1048.%20Find%20Coins.md)
 * [1052. Linked List Sorting](https://github.com/kurong00/PAT/blob/master/1052.%20Linked%20List%20Sorting.md)

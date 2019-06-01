@@ -36,6 +36,7 @@
 * [1043. Is It a Binary Search Tree](1043. Is It a Binary Search Tree.md)
 * [1042. Shuffling Machine](1042. Shuffling Machine.md)
 * [1046. Shortest Distance](1046. Shortest Distance.md)
+* [1047. Student List for Course](1047. Student List for Course.md)
 * [1048. Find Coins](1048. Find Coins.md)
 * [1049. Counting Ones](1049 Counting Ones.md)
 * [1051. Pop Sequence](1051. Pop Sequence.md)
