@@ -42,6 +42,7 @@
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
+* [1047. Student List for Course](https://github.com/kurong00/PAT/blob/master/1047.%20Student%20List%20for%20Course.md)
 * [1062. Talent and Virtue](https://github.com/kurong00/PAT/blob/master/1062.%20Talent%20and%20Virtue.md)
 * [1075. PAT Judge](https://github.com/kurong00/PAT/blob/master/1075.%20PAT%20Judge.md)
 * [1080. Graduate Admission](https://github.com/kurong00/PAT/blob/master/1080.%20Graduate%20Admission.md)
