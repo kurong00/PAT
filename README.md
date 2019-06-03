@@ -130,6 +130,7 @@
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
 * [1049. Counting Ones](https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
+* [1057. Stack](https://github.com/kurong00/PAT/blob/master/1057.%20Stack.md)
 * [1064. Complete Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1064.%20Complete%20Binary%20Search%20Tree.md)
 * [1068. Find More Coins](https://github.com/kurong00/PAT/blob/master/1068.%20Find%20More%20Coins.md)
 * [1072. Gas Station](https://github.com/kurong00/PAT/blob/master/1072.%20Gas%20Station.md)

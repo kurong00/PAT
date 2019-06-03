@@ -46,6 +46,7 @@
 * [1054. The Dominant Color](1054. The Dominant Color.md)
 * [1055. The World's Richest](1055. The World's Richest.md)
 * [1056. Mice and Rice](1056. Mice and Rice.md)
+* [1057. Stack](1057. Stack.md)
 * [1058. A+B in Hogwarts](1058. A+B in Hogwarts.md)
 * [1059. Prime Factors](1059. Prime Factors.md)
 * [1060. Are They Equal](1060. Are They Equal.md)
