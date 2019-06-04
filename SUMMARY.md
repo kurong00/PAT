@@ -35,6 +35,7 @@
 * [1041. Be Unique](1041. Be Unique.md)
 * [1042. Shuffling Machine](1042. Shuffling Machine.md)
 * [1043. Is It a Binary Search Tree](1043. Is It a Binary Search Tree.md)
+* [1044. Shopping in Mars](1044. Shopping in Mars.md)
 * [1045. Favorite Color Stripe](1045. Favorite Color Stripe.md)
 * [1046. Shortest Distance](1046. Shortest Distance.md)
 * [1047. Student List for Course](1047. Student List for Course.md)
