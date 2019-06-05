@@ -9,6 +9,7 @@
 * [1027. Colors in Mars](https://github.com/kurong00/PAT/blob/master/1027.%20Colors%20in%20Mars.md)
 * [1031. Hello World for U](https://github.com/kurong00/PAT/blob/master/1031.%20Hello%20World%20for%20U.md)
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
+* [1038. Recover the Smallest Number](https://github.com/kurong00/PAT/blob/master/1038.%20Recover%20the%20Smallest%20Number.md)
 * [1061. Dating](https://github.com/kurong00/PAT/blob/master/1061.%20Dating.md)
 * [1071. Speech Patterns](https://github.com/kurong00/PAT/blob/master/1071.%20Speech%20Patterns.md)
 * [1073. Scientific Notation](https://github.com/kurong00/PAT/blob/master/1073.%20Scientific%20Notation.md)
