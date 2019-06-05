@@ -82,6 +82,7 @@
 ## 动态规划
 
 * [1007. Maximum Subsequence Sum](https://github.com/kurong00/PAT/blob/master/1007.%20Maximum%20Subsequence%20Sum.md)
+* [1040. Longest Symmetric String](https://github.com/kurong00/PAT/blob/master/1040.%20Longest%20Symmetric%20String.md)
 * [1045. Favorite Color Stripe](https://github.com/kurong00/PAT/blob/master/1045.%20Favorite%20Color%20Stripe.md)
 * [1070. Mooncake](https://github.com/kurong00/PAT/blob/master/1070.%20Mooncake.md)
 
