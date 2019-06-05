@@ -63,6 +63,7 @@
 * [1032. Sharing](https://github.com/kurong00/PAT/blob/master/1032.%20Sharing.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
+* [1040. Longest Symmetric String](https://github.com/kurong00/PAT/blob/master/1040.%20Longest%20Symmetric%20String.md)
 * [1043. Is It a Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1043.%20Is%20It%20a%20Binary%20Search%20Tree.md)
 * [1044. Shopping in Mars](https://github.com/kurong00/PAT/blob/master/1044.%20Shopping%20in%20Mars.md)
 * [1047. Student List for Course](https://github.com/kurong00/PAT/blob/master/1047.%20Student%20List%20for%20Course.md)
