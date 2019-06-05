@@ -130,6 +130,7 @@
 * [1022. Digital Library](https://github.com/kurong00/PAT/blob/master/1022.%20Digital%20Library.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
+* [1038. Recover the Smallest Number](https://github.com/kurong00/PAT/blob/master/1038.%20Recover%20the%20Smallest%20Number.md)
 * [1045. Favorite Color Stripe](https://github.com/kurong00/PAT/blob/master/1045.%20Favorite%20Color%20Stripe.md)
 * [1049. Counting Ones](https://github.com/kurong00/PAT/blob/master/1049.%20Counting%20Ones.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)

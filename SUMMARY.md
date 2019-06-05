@@ -32,6 +32,7 @@
 * [1035. Password](1035. Password.md)
 * [1036. Boys vs Girls](1036. Boys vs Girls.md)
 * [1039. Course List for Student](1039. Course List for Student.md)
+* [1038. Recover the Smallest Number](1038. Recover the Smallest Number.md)
 * [1040. Longest Symmetric String](1040. Longest Symmetric String.md)
 * [1041. Be Unique](1041. Be Unique.md)
 * [1042. Shuffling Machine](1042. Shuffling Machine.md)
