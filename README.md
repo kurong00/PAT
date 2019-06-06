@@ -62,6 +62,7 @@
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
 * [1032. Sharing](https://github.com/kurong00/PAT/blob/master/1032.%20Sharing.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
+* [1037. Magic Coupon](https://github.com/kurong00/PAT/blob/master/1037.%20Magic%20Coupon.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
 * [1040. Longest Symmetric String](https://github.com/kurong00/PAT/blob/master/1040.%20Longest%20Symmetric%20String.md)
 * [1043. Is It a Binary Search Tree](https://github.com/kurong00/PAT/blob/master/1043.%20Is%20It%20a%20Binary%20Search%20Tree.md)
