@@ -71,7 +71,7 @@
 * [1051. Pop Sequence](https://github.com/kurong00/PAT/blob/master/1051.%20Pop%20Sequence.md)
 * [1048. Find Coins](https://github.com/kurong00/PAT/blob/master/1048.%20Find%20Coins.md)
 * [1052. Linked List Sorting](https://github.com/kurong00/PAT/blob/master/1052.%20Linked%20List%20Sorting.md)
-* [1055 The World's Richest](https://github.com/kurong00/PAT/blob/master/1055.%20The%20World's%20Richest.md)
+* [1055. The World's Richest](https://github.com/kurong00/PAT/blob/master/1055.%20The%20World's%20Richest.md)
 * [1056. Mice and Rice](https://github.com/kurong00/PAT/blob/master/1056.%20Mice%20and%20Rice.md)
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1060. Are They Equal](https://github.com/kurong00/PAT/blob/master/1060.%20Are%20They%20Equal.md)
