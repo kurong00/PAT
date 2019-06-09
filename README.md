@@ -61,6 +61,7 @@
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
 * [1032. Sharing](https://github.com/kurong00/PAT/blob/master/1032.%20Sharing.md)
+* [1033. To Fill or Not to Fill](https://github.com/kurong00/PAT/blob/master/1033.%20To%20Fill%20or%20Not%20to%20Fill.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1037. Magic Coupon](https://github.com/kurong00/PAT/blob/master/1037.%20Magic%20Coupon.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
