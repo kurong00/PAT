@@ -91,6 +91,10 @@
 
 * [1068. Find More Coins](https://github.com/kurong00/PAT/blob/master/1068.%20Find%20More%20Coins.md)
 
+## 贪心
+
+* [1033. To Fill or Not to Fill](https://github.com/kurong00/PAT/blob/master/1033.%20To%20Fill%20or%20Not%20to%20Fill.md)
+
 ## 树
 
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
