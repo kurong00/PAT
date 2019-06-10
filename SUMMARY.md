@@ -13,6 +13,7 @@
 * [1010. Radix](1010 Radix.md)
 * [1011. World Cup Betting](1011. World Cup Betting.md)
 * [1012. The Best Rank](1012. The Best Rank.md)
+* [1013. Battle Over Cities](1013. Battle Over Cities.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
 * [1019. General Palindromic Number](1019. General Palindromic Number.md)
 * [1020. Tree Traversals](1020. Tree Traversals.md)
