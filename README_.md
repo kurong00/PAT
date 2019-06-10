@@ -68,6 +68,7 @@
 ### DFS
 
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
+* [1013. Battle Over Cities](https://github.com/kurong00/PAT/blob/master/1013.%20Battle%20Over%20Cities.md)
 * [1021. Deepest Root](https://github.com/kurong00/PAT/blob/master/1021.%20Deepest%20Root.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
