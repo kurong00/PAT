@@ -22,6 +22,7 @@
 * [1023. Have Fun with Numbers](1023. Have Fun with Numbers.md)
 * [1024. Palindromic Number](1024. Palindromic Number.md)
 * [1025. PAT Ranking](1025. PAT Ranking.md)
+* [1026. Table Tennis](1026. Table Tennis.md)
 * [1027. Colors in Mars](1027. Colors in Mars.md)
 * [1028. List Sorting](1028. List Sorting.md)
 * [1029. Median](1029. Median.md)

@@ -130,6 +130,7 @@
 
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
 * [1022. Digital Library](https://github.com/kurong00/PAT/blob/master/1022.%20Digital%20Library.md)
+* [1026. Table Tennis](https://github.com/kurong00/PAT/blob/master/1026.%20Table%20Tennis.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)
 * [1034. Head of a Gang](https://github.com/kurong00/PAT/blob/master/1034.%20Head%20of%20a%20Gang.md)
 * [1038. Recover the Smallest Number](https://github.com/kurong00/PAT/blob/master/1038.%20Recover%20the%20Smallest%20Number.md)
