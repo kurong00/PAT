@@ -40,6 +40,7 @@
 * [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
 * [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
+* [1026. Table Tennis](https://github.com/kurong00/PAT/blob/master/1026.%20Table%20Tennis.md)
 * [1028. List Sorting](https://github.com/kurong00/PAT/blob/master/1028.%20List%20Sorting.md)
 * [1036. Boys vs Girls](https://github.com/kurong00/PAT/blob/master/1036.%20Boys%20vs%20Girls.md)
 * [1039. Course List for Student](https://github.com/kurong00/PAT/blob/master/1039.%20Course%20List%20for%20Student.md)
