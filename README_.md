@@ -37,7 +37,8 @@
 
 ### 排序模拟
 
-* [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md,md)
+* [1012. The Best Rank.md](https://github.com/kurong00/PAT/blob/master/1012.%20The%20Best%20Rank.md)
+* [1016. Phone Bills](https://github.com/kurong00/PAT/blob/master/1016.%20Phone%20Bills.md)
 * [1017. Queueing at Bank](https://github.com/kurong00/PAT/blob/master/1017.%20Queueing%20t%20Bank.md)
 * [1025. PAT Ranking](https://github.com/kurong00/PAT/blob/master/1025.%20PAT%20Ranking.md)
 * [1026. Table Tennis](https://github.com/kurong00/PAT/blob/master/1026.%20Table%20Tennis.md)
