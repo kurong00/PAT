@@ -131,6 +131,7 @@
 ## 难度值：30分值
 
 * [1004. Counting Leaves](https://github.com/kurong00/PAT/blob/master/1004.%20Counting%20Leaves.md)
+* [1014. Waiting in Line](https://github.com/kurong00/PAT/blob/master/1014.%20Waiting%20in%20Line.md)
 * [1022. Digital Library](https://github.com/kurong00/PAT/blob/master/1022.%20Digital%20Library.md)
 * [1026. Table Tennis](https://github.com/kurong00/PAT/blob/master/1026.%20Table%20Tennis.md)
 * [1030. Travel Plan](https://github.com/kurong00/PAT/blob/master/1030.%20Travel%20Plan.md)

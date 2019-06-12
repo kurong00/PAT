@@ -14,6 +14,7 @@
 * [1011. World Cup Betting](1011. World Cup Betting.md)
 * [1012. The Best Rank](1012. The Best Rank.md)
 * [1013. Battle Over Cities](1013. Battle Over Cities.md)
+* [1014. Waiting in Line](1014. Waiting in Line.md)
 * [1015. Reversible Primes](1015. Reversible Primes.md)
 * [1016. Phone Bills](1016. Phone Bills.md)
 * [1019. General Palindromic Number](1019. General Palindromic Number.md)
