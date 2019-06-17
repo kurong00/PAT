@@ -58,6 +58,10 @@
 
 ## 图论算法
 
+### 模拟
+
+* [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
+
 ### Dijkstra
 
 * [1003. Emergency](https://github.com/kurong00/PAT/blob/master/1003.%20Emergency.md)
