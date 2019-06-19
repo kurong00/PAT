@@ -111,6 +111,7 @@
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
 * [1143. Lowest Common Ancestor](https://github.com/kurong00/PAT/blob/master/1143.%20Lowest%20Common%20Ancestor.md)
 * [1151. LCA in a Binary Tree](https://github.com/kurong00/PAT/blob/master/1151.%20LCA%20in%20a%20Binary%20ree.md)
+* [1155. Heap Paths](https://github.com/kurong00/PAT/blob/master/1155.%20Heap%20Paths.md)
 
 ### BST树
 
