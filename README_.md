@@ -60,6 +60,7 @@
 
 ### 模拟
 
+* [1149. Dangerous Goods Packaging](https://github.com/kurong00/PAT/blob/master/1149.%20Dangerous%20Goods%20Packaging.md)
 * [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
 
 ### Dijkstra
