@@ -10,6 +10,7 @@
 * [1031. Hello World for U](https://github.com/kurong00/PAT/blob/master/1031.%20Hello%20World%20for%20U.md)
 * [1035. Password](https://github.com/kurong00/PAT/blob/master/1035.%20Password.md)
 * [1038. Recover the Smallest Number](https://github.com/kurong00/PAT/blob/master/1038.%20Recover%20the%20Smallest%20Number.md)
+* [1152. Google Recruitment](https://github.com/kurong00/PAT/blob/master/1152.%20Google%20Recruitment.md)
 * [1061. Dating](https://github.com/kurong00/PAT/blob/master/1061.%20Dating.md)
 * [1071. Speech Patterns](https://github.com/kurong00/PAT/blob/master/1071.%20Speech%20Patterns.md)
 * [1073. Scientific Notation](https://github.com/kurong00/PAT/blob/master/1073.%20Scientific%20Notation.md)
@@ -32,6 +33,7 @@
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
+* [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
 
 ## 大排序
 
@@ -55,6 +57,10 @@
 ### 排序问题
 
 * [1098. Insertion or Heap Sort](https://github.com/kurong00/PAT/blob/master/1098.%20Insertion%20or%20Heap%20Sort.md)
+
+## Hash
+
+* [1154. Vertex Coloring](https://github.com/kurong00/PAT/blob/master/1154.%20Vertex%20Coloring.md)
 
 ## 图论算法
 
