@@ -66,6 +66,7 @@
 
 ### 模拟
 
+* [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 * [1149. Dangerous Goods Packaging](https://github.com/kurong00/PAT/blob/master/1149.%20Dangerous%20Goods%20Packaging.md)
 * [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
 
@@ -117,6 +118,7 @@
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
 * [1143. Lowest Common Ancestor](https://github.com/kurong00/PAT/blob/master/1143.%20Lowest%20Common%20Ancestor.md)
+* [1147. Heaps](https://github.com/kurong00/PAT/blob/master/1147.%20Heaps.md)
 * [1151. LCA in a Binary Tree](https://github.com/kurong00/PAT/blob/master/1151.%20LCA%20in%20a%20Binary%20ree.md)
 * [1155. Heap Paths](https://github.com/kurong00/PAT/blob/master/1155.%20Heap%20Paths.md)
 
