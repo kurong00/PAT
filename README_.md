@@ -33,6 +33,7 @@
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
+* [1140. Look-and-say Sequence](https://github.com/kurong00/PAT/blob/master/1140.%20Look-and-say%20Sequence.md)
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 * [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
 
@@ -54,6 +55,7 @@
 * [1080. Graduate Admission](https://github.com/kurong00/PAT/blob/master/1080.%20Graduate%20Admission.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
+* [1141. PAT Ranking of Institutions](https://github.com/kurong00/PAT/blob/master/1141.%20PAT%20Ranking%20of%20Institutions.md)
 
 ### 排序问题
 
