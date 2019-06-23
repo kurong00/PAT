@@ -30,6 +30,7 @@
 * [1023. Have Fun with Numbers](https://github.com/kurong00/PAT/blob/master/1023.%20Have%20Fun%20with%20Numbers.md)
 * [1024. Palindromic Number](https://github.com/kurong00/PAT/blob/master/1024.%20Palindromic%20Number)
 * [1029. Median](https://github.com/kurong00/PAT/blob/master/1029.%20Median.md)
+* [1136. A Delayed Palindrome](https://github.com/kurong00/PAT/blob/master/1136.%20A%20Delayed%20Palindrome.md)
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
@@ -55,6 +56,7 @@
 * [1080. Graduate Admission](https://github.com/kurong00/PAT/blob/master/1080.%20Graduate%20Admission.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
+* [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
 * [1139. First Contact](https://github.com/kurong00/PAT/blob/master/1139.%20First%20Contact.md)
 * [1141. PAT Ranking of Institutions](https://github.com/kurong00/PAT/blob/master/1141.%20PAT%20Ranking%20of%20Institutions.md)
 
