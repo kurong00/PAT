@@ -55,6 +55,7 @@
 * [1080. Graduate Admission](https://github.com/kurong00/PAT/blob/master/1080.%20Graduate%20Admission.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
+* [1139. First Contact](https://github.com/kurong00/PAT/blob/master/1139.%20First%20Contact.md)
 * [1141. PAT Ranking of Institutions](https://github.com/kurong00/PAT/blob/master/1141.%20PAT%20Ranking%20of%20Institutions.md)
 
 ### 排序问题
@@ -65,7 +66,6 @@
 
 * [1154. Vertex Coloring](https://github.com/kurong00/PAT/blob/master/1154.%20Vertex%20Coloring.md)
 * [1145. Hashing - Average Search Time](https://github.com/kurong00/PAT/blob/master/1145.%20Hashing%20-%20Average%20Search%20Time.md)
-
 
 ## 图论算法
 
@@ -122,6 +122,7 @@
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
+* [1138. Postorder Traversal](https://github.com/kurong00/PAT/blob/master/1138.%20Postorder%20Traversal.md)
 * [1143. Lowest Common Ancestor](https://github.com/kurong00/PAT/blob/master/1143.%20Lowest%20Common%20Ancestor.md)
 * [1147. Heaps](https://github.com/kurong00/PAT/blob/master/1147.%20Heaps.md)
 * [1151. LCA in a Binary Tree](https://github.com/kurong00/PAT/blob/master/1151.%20LCA%20in%20a%20Binary%20ree.md)
