@@ -34,6 +34,8 @@
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
+* [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
+* [1133. Splitting A Linked List](https://github.com/kurong00/PAT/blob/master/1133.%20Splitting%20A%20Linked%20List.md)
 * [1140. Look-and-say Sequence](https://github.com/kurong00/PAT/blob/master/1140.%20Look-and-say%20Sequence.md)
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 * [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
@@ -73,6 +75,7 @@
 
 ### 模拟
 
+* [1134. Vertex Cover](https://github.com/kurong00/PAT/blob/master/1134.%20Vertex%20Cover.md)
 * [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 * [1149. Dangerous Goods Packaging](https://github.com/kurong00/PAT/blob/master/1149.%20Dangerous%20Goods%20Packaging.md)
 * [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
@@ -124,6 +127,7 @@
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
+* [1135. Is It A Red-Black Tree](https://github.com/kurong00/PAT/blob/master/1135.%20Is%20It%20A%20Red-Black%20Tree.md)
 * [1138. Postorder Traversal](https://github.com/kurong00/PAT/blob/master/1138.%20Postorder%20Traversal.md)
 * [1143. Lowest Common Ancestor](https://github.com/kurong00/PAT/blob/master/1143.%20Lowest%20Common%20Ancestor.md)
 * [1147. Heaps](https://github.com/kurong00/PAT/blob/master/1147.%20Heaps.md)
