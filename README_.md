@@ -17,6 +17,7 @@
 * [1077. Kuchiguse](https://github.com/kurong00/PAT/blob/master/1077.%20Kuchiguse.md)
 * [1078. Hashing](https://github.com/kurong00/PAT/blob/master/1078.%20Hashing.md)
 * [1082. Read Number in Chinese](https://github.com/kurong00/PAT/blob/master/1082.%20Read%20Number%20in%20Chinese.md)
+* [1124. Raffle for Weibo Followers](https://github.com/kurong00/PAT/blob/master/1124.%20Raffle%20for%20Weibo%20Followers.md)
 
 ## 数学问题
 
@@ -34,6 +35,7 @@
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
+* [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
 * [1128. N Queens Puzzle](https://github.com/kurong00/PAT/blob/master/1128.%20N%20Queens%20Puzzle.md)
 * [1132. Cut Integer](https://github.com/kurong00/PAT/blob/master/1132.%20Cut%20Integer.md)
 * [1133. Splitting A Linked List](https://github.com/kurong00/PAT/blob/master/1133.%20Splitting%20A%20Linked%20List.md)
@@ -77,6 +79,7 @@
 
 ### 模拟
 
+* [1126. Eulerian Path](https://github.com/kurong00/PAT/blob/master/1126.%20Eulerian%20Path.md)
 * [1134. Vertex Cover](https://github.com/kurong00/PAT/blob/master/1134.%20Vertex%20Cover.md)
 * [1146. Topological Order](https://github.com/kurong00/PAT/blob/master/1146.%20Topological%20Order.md)
 * [1149. Dangerous Goods Packaging](https://github.com/kurong00/PAT/blob/master/1149.%20Dangerous%20Goods%20Packaging.md)
@@ -129,6 +132,7 @@
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
+* [1127. ZigZagging on a Tree](https://github.com/kurong00/PAT/blob/master/1127.%20ZigZagging%20on%20a%20Tree.md)
 * [1130. Infix Expression](https://github.com/kurong00/PAT/blob/master/1130.%20Infix%20Expression.md)
 * [1135. Is It A Red-Black Tree](https://github.com/kurong00/PAT/blob/master/1135.%20Is%20It%20A%20Red-Black%20Tree.md)
 * [1138. Postorder Traversal](https://github.com/kurong00/PAT/blob/master/1138.%20Postorder%20Traversal.md)
