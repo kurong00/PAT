@@ -34,6 +34,7 @@
 * [1136. A Delayed Palindrome](https://github.com/kurong00/PAT/blob/master/1136.%20A%20Delayed%20Palindrome.md)
 * [1059. Prime Factors](https://github.com/kurong00/PAT/blob/master/1059.%20Prime%20Factors.md)
 * [1081. Rational Sum](https://github.com/kurong00/PAT/blob/master/1081.%20Rational%20Sum.md)
+* [1108. Finding Average](https://github.com/kurong00/PAT/blob/master/1108.%20Finding%20Average.md)
 * [1117. Eddington Number](https://github.com/kurong00/PAT/blob/master/1117.%20Eddington%20Number.md)
 * [1125. Chain the Ropes](https://github.com/kurong00/PAT/blob/master/1125.%20Chain%20the%20Ropes.md)
 * [1128. N Queens Puzzle](https://github.com/kurong00/PAT/blob/master/1128.%20N%20Queens%20Puzzle.md)
@@ -61,6 +62,7 @@
 * [1080. Graduate Admission](https://github.com/kurong00/PAT/blob/master/1080.%20Graduate%20Admission.md)
 * [1083. List Grades](https://github.com/kurong00/PAT/blob/master/1083.%20List%20Grades.md)
 * [1095. Cars on Campus](https://github.com/kurong00/PAT/blob/master/1095.%20Cars%20on%20Campus.md)
+* [1109. Group Photo](https://github.com/kurong00/PAT/blob/master/1109.%20Group%20Photo.md)
 * [1129. Recommendation System](https://github.com/kurong00/PAT/blob/master/1129.%20Recommendation%20System.md)
 * [1137. Final Grading](https://github.com/kurong00/PAT/blob/master/1137.%20Final%20Grading.md)
 * [1139. First Contact](https://github.com/kurong00/PAT/blob/master/1139.%20First%20Contact.md)
@@ -131,6 +133,7 @@
 
 * [1020. Tree Traversals](https://github.com/kurong00/PAT/blob/master/1020.%20Tree%20Traversals.md)
 * [1053. Path of Equal Weight](https://github.com/kurong00/PAT/blob/master/1053.%20Path%20of%20Equal%20Weight.md)
+* [1110. Complete Binary Tree](https://github.com/kurong00/PAT/blob/master/1110.%20Complete%20Binary%20Tree.md)
 * [1119. Pre- and Post-order Traversals](https://github.com/kurong00/PAT/blob/master/1119.%20Pre-%20and%20Post-order%20Traversals.md)
 * [1127. ZigZagging on a Tree](https://github.com/kurong00/PAT/blob/master/1127.%20ZigZagging%20on%20a%20Tree.md)
 * [1130. Infix Expression](https://github.com/kurong00/PAT/blob/master/1130.%20Infix%20Expression.md)
