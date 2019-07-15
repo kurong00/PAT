@@ -155,3 +155,4 @@
 * [1153. Decode Registration Card of PAT](1153. Decode Registration Card of PAT.md)
 * [1154. Vertex Coloring](1154. Vertex Coloring.md)
 * [1155. Heap Paths](1155. Heap Paths.md)
+* [1156. Sexy Primes](1156. Sexy Primes.md)

@@ -44,6 +44,7 @@
 * [1144. The Missing Number](https://github.com/kurong00/PAT/blob/master/1144.%20The%20Missing%20Number.md)
 * [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
 * [1152. Google Recruitment](https://github.com/kurong00/PAT/blob/master/1152.%20Google%20Recruitment.md)
+* [1156. Sexy Primes](https://github.com/kurong00/PAT/blob/master/1156.%20Sexy%20Primes.md)
 
 ## 难度值：25分值
 
