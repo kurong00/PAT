@@ -128,6 +128,7 @@
 * [1150. Travelling Salesman Problem](https://github.com/kurong00/PAT/blob/master/1150.%20Travelling%20Salesman%20Problem.md)
 * [1153. Decode Registration Card of PAT](https://github.com/kurong00/PAT/blob/master/1153.%20Decode%20Registration%20Card%20of%20PAT.md)
 * [1154. Vertex Coloring](https://github.com/kurong00/PAT/blob/master/1154.%20Vertex%20Coloring.md)
+* [1158. Telefraud Detection](https://github.com/kurong00/PAT/blob/master/1158.%20Telefraud%20Detection.md)
 * [1157. Anniversary](https://github.com/kurong00/PAT/blob/master/1157.%20Anniversary.md)
 
 ## 难度值：30分值

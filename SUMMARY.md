@@ -157,4 +157,5 @@
 * [1155. Heap Paths](1155. Heap Paths.md)
 * [1156. Sexy Primes](1156. Sexy Primes.md)
 * [1157. Anniversary](1157. Anniversary.md)
+* [1158. Telefraud Detection](1158. Telefraud Detection.md)
 * [1159. Structure of a Binary Tree](1159. Structure of a Binary Tree.md)
