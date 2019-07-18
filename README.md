@@ -166,3 +166,4 @@
 * [1147. Heaps](https://github.com/kurong00/PAT/blob/master/1147.%20Heaps.md)
 * [1151. LCA in a Binary Tree](https://github.com/kurong00/PAT/blob/master/1151.%20LCA%20in%20a%20Binary%20ree.md)
 * [1155. Heap Paths](https://github.com/kurong00/PAT/blob/master/1155.%20Heap%20Paths.md)
+* [1159. Structure of a Binary Tree](https://github.com/kurong00/PAT/blob/master/1159.%20Structure%20of%20a%20Binary%20Tree.md)
