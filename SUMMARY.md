@@ -159,3 +159,7 @@
 * [1157. Anniversary](1157. Anniversary.md)
 * [1158. Telefraud Detection](1158. Telefraud Detection.md)
 * [1159. Structure of a Binary Tree](1159. Structure of a Binary Tree.md)
+* [1160. Forever](1160. Forever.md)
+* [1161. Merging Linked Lists](1161. Merging Linked Lists.md)
+* [1162. Postfix Expression](1162. Postfix Expression.md)
+* [1163. Dijkstra Sequence](1163. Dijkstra Sequence.md)

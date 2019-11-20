@@ -45,6 +45,7 @@
 * [1148. Werewolf - Simple Version](https://github.com/kurong00/PAT/blob/master/1148.%20Werewolf%20-%20Simple%20Version.md)
 * [1152. Google Recruitment](https://github.com/kurong00/PAT/blob/master/1152.%20Google%20Recruitment.md)
 * [1156. Sexy Primes](https://github.com/kurong00/PAT/blob/master/1156.%20Sexy%20Primes.md)
+* [1160. Forever](https://github.com/kurong00/PAT/blob/master/1160.%20Forever.md)
 
 ## 难度值：25分值
 
@@ -130,6 +131,8 @@
 * [1154. Vertex Coloring](https://github.com/kurong00/PAT/blob/master/1154.%20Vertex%20Coloring.md)
 * [1158. Telefraud Detection](https://github.com/kurong00/PAT/blob/master/1158.%20Telefraud%20Detection.md)
 * [1157. Anniversary](https://github.com/kurong00/PAT/blob/master/1157.%20Anniversary.md)
+* [1161. Merging Linked Lists](https://github.com/kurong00/PAT/blob/master/1161.%20Merging%20Linked%20Lists.md)
+* [1162. Postfix Expression](https://github.com/kurong00/PAT/blob/master/1162.%20Postfix%20Expression.md)
 
 ## 难度值：30分值
 
@@ -168,3 +171,4 @@
 * [1151. LCA in a Binary Tree](https://github.com/kurong00/PAT/blob/master/1151.%20LCA%20in%20a%20Binary%20ree.md)
 * [1155. Heap Paths](https://github.com/kurong00/PAT/blob/master/1155.%20Heap%20Paths.md)
 * [1159. Structure of a Binary Tree](https://github.com/kurong00/PAT/blob/master/1159.%20Structure%20of%20a%20Binary%20Tree.md)
+* [1163. Dijkstra Sequence](https://github.com/kurong00/PAT/blob/master/1163.%20Dijkstra%20Sequence.md)
