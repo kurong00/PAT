@@ -19,6 +19,10 @@
 * [1082. Read Number in Chinese](https://github.com/kurong00/PAT/blob/master/1082.%20Read%20Number%20in%20Chinese.md)
 * [1124. Raffle for Weibo Followers](https://github.com/kurong00/PAT/blob/master/1124.%20Raffle%20for%20Weibo%20Followers.md)
 
+## 链表
+
+* [1161. Merging Linked Lists](https://github.com/kurong00/PAT/blob/master/1161.%20Merging%20Linked%20Lists.md)
+
 ## 数学问题
 
 * [1002. A+B for Polynomials](https://github.com/kurong00/PAT/blob/master/1002.%20A%2BB%20for%20Polynomials.md)
