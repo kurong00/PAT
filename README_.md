@@ -95,6 +95,7 @@
 * [1072. Gas Station](https://github.com/kurong00/PAT/blob/master/1072.%20Gas%20Station.md)
 * [1111. Online Map](https://github.com/kurong00/PAT/blob/master/1111.%20Online%20Map.md)
 * [1142. Maximal Clique](https://github.com/kurong00/PAT/blob/master/1142.%20Maximal%20Clique.md)
+* [1163. Dijkstra Sequence](https://github.com/kurong00/PAT/blob/master/1163.%20Dijkstra%20Sequence.md)
 
 ### DFS
 
